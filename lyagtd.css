@@ -1,0 +1,103 @@
+/* vim: set ts=4 sw=4 et tw=80 ai: */
+html {
+	background-color: white;
+	color: #002b3d;
+	font-size: 0.90em;
+	line-height: 1.5em;
+}
+
+body {
+	margin: 1cm;
+	padding: 0;
+	width: 15cm;
+	text-align: justify;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    padding-bottom: 0.5em;
+}
+
+td {
+    padding: 0 0.3em 0 1em;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: #002b3d; /* ubuntu dark brown */
+    line-height: 1.2em;
+}
+
+h1 {
+    font-size: 1.8em;
+    border-bottom: 2px solid #002b3d;
+    margin-top: 1.5em;
+}
+
+img {
+    float: right;
+    margin-left: 1em;
+}
+
+div.topheader {
+	text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 2.8em;
+	line-height: 1.5em;
+}
+
+div.important {
+    padding: 0.5em;
+    background-color: #ffefef;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid black;
+    -moz-border-radius: 0.5em; /* FIXME: remove? */
+    border-radius: 0.5em;
+}
+
+div.remember {
+    padding: 0.5em;
+    margin-left: 1em;
+    background-color: #e0ffe0;
+    float: right;
+    width: 30%;
+    border: 1px solid black;
+    -moz-border-radius: 0.5em; /* FIXME: remove? */
+    border-radius: 0.5em;
+}
+
+div.example {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.5em;
+    background-color: #e0ffe0;
+    width: 80%;
+    border: 1px solid black;
+    -moz-border-radius: 0.5em; /* FIXME: remove? */
+    border-radius: 0.5em;
+}
+
+span.calendar {
+	background-color: #ffd0d0;
+    padding: 0 0.2em 0 0.2em;
+}
+
+span.listname {
+	background-color: #ffd0ff;
+    padding: 0 0.2em 0 0.2em;
+}
+
+span.context {
+	background-color: #d0ffd0;
+    padding: 0 0.2em 0 0.2em;
+}
+
+span.action {
+    padding: 0 0.2em 0 0.2em;
+	background-color: #d0d0ff;
+}
