@@ -35,7 +35,9 @@ h1 {
     font-size: 1.8em;
     border-bottom: 2px solid #002b3d;
     margin-top: 1.5em;
+    letter-spacing: 0.025em;
     text-transform: uppercase;
+    text-shadow: 2px 2px 2px #bbb;
 }
 
 img {
@@ -48,6 +50,7 @@ div.topheader {
     font-family: 'Droid Sans', arial, serif;
     font-weight: bold;
     font-size: 2.8em;
+    text-shadow: 4px 4px 4px #bbb;
 	line-height: 1.5em;
 }
 
