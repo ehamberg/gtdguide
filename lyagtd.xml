@@ -22,8 +22,33 @@
                               “GTD IN 15 MINUTES”
 </div>
 
+<img style="border: 1px solid black;" src="images/tickle.svg" />
+
+<h2>Table of contents:</h2>
+<div class="toc">
+<ol>
+    <li><a href="#whatisgtd">What is “GTD”?</a></li>
+    <li><a href="#theinlist">The “<span class="listname">in</span>“ list</a></li>
+    <li><a href="#processingtheinlist">Processing the “<span class="listname">in</span>” list</a></li>
+    <li><a href="#thenextactionslist">The “<span class="listname">next actions</span>” list</a></li>
+    <li><a href="#thewaitingforlist">The “<span class="listname">waiting for</span>” list</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#contexts">Contexts</a></li>
+    <ol>
+        <li><a href="#agendacontexts">Agenda contexts</a></li>
+    </ol>
+    <li><a href="#thesomedaymaybelist">The “<span class="listname">some day/maybe</span>” list</a></li>
+    <li><a href="#calendar">Calendar</a></li>
+    <li><a href="#weeklyreview">Weekly review</a></li>
+    <li><a href="#gettingittowork">Getting it to work</a></li>
+    <li><a href="#readreviewfolder">Read/review folder</a></li>
+    <li><a href="#ticklerfile">Tickler file</a></li>
+</ol>
+</div>
+
 <div class="hyphenate"> <!-- hyphenate from here -->
 
+<a name="whatisgtd" />
 <h1>What is “GTD”?</h1>
 
 <p>GTD – or “Getting things done” – is a framework for organising
@@ -96,8 +121,8 @@ Done: The Art of Stress-Free Productivity”</strong> (<a href="http://www.amazo
 href="http://books.google.com/books?id=LAx_PwAACAAJ&amp;dq=getting+things+done">Google Books</a>, <a
 href="http://en.wikipedia.org/wiki/Getting_Things_Done">Wikipedia</a>).</p> </div>
 
-
-<h1>THE “<span class="listname">IN</span>“ LIST</h1>
+<a name="theinlist" />
+<h1>The “<span class="listname">in</span>“ list</h1>
 
 <p>The <span class="listname">in</span> list is where you capture ideas and
 tasks as they occur to you.  Either by your boss telling you to bake her a
@@ -119,7 +144,8 @@ borrowed from your aunt Trillian? Should you repaint your bed in another colour?
 All these things should go on your <span class="listname">in</span> list.</p>
 
 
-<h1>PROCESSING THE “<span class="listname">IN</span>” LIST</h1>
+<a name="processingtheinlist" />
+<h1>Processing the “<span class="listname">in</span>” list</h1>
 
 <div class="remember">
     If you have just started to use GTD and collected tonnes of items in your
@@ -194,7 +220,8 @@ you should follow this procedure:</p>
 </ul>
 </div>
 
-<h1>THE “<span class="listname">NEXT ACTIONS</span>” LIST</h1>
+<a name="thenextactionslist" />
+<h1>The “<span class="listname">next actions</span>” list</h1>
 
 <p>So what's the <span class="listname">next actions</span> list?  Well, uh, a
 list of your next actions, obviously.  Another name for these actions is
@@ -203,7 +230,8 @@ pick out what to work on when you are not watching funny cat videos on Youtube
 or playing Farmville.</p>
 
 
-<h1>THE “<span class="listname">WAITING FOR</span>” LIST</h1>
+<a name="thewaitingforlist" />
+<h1>The “<span class="listname">waiting for</span>” list</h1>
 
 <p>When you delegate work to others, send an e-mail you expect or need to be
 replied to, order something, or have a task that is “blocked” because you are
@@ -213,7 +241,8 @@ stamped with the current date so that you'll be able to e-mail your co-worker
 Marvin and say “I'm still waiting for the WTF report you said you'd finish
 within a month.  That was 32 days ago!”.</p>
 
-<h1>PROJECTS</h1>
+<a name="projects" />
+<h1>Projects</h1>
 
 <p>If your still with me you might have worried that a <span
 class="action">“research artificial intelligence textbooks”</span> action on
@@ -228,7 +257,8 @@ requires more than one action as a project.  These projects should go on your
 project titles and – if you like – descriptions and intended outcomes of the
 projects.</p>
 
-<h1>CONTEXTS</h1>
+<a name="contexts" />
+<h1>Contexts</h1>
 
 <img src="images/computer.png" alt="computer!" style="width: 30%" />
 
@@ -278,7 +308,8 @@ a glance – what your possible actions are depending on where you physically ar
 and what equipment you have available.  It can also be a good idea to make an
 “everywhere” context for things you can do no matter where you are (“FOO”).</p>
 
-<h2>AGENDA CONTEXTS</h2>
+<a name="agendacontexts" />
+<h2>Agenda contexts</h2>
 
 <p>If you have regular meetings with people, it can be beneficial to have “agenda
 contexts” – one for each person – where you write down the things you want to
@@ -288,7 +319,8 @@ class="context">@ Foobert Agenda</span>” context.  These contexts will of co
 changing teams/managers/supervisor, etc.</p>
 
 
-<h1>THE “<span class="listname">SOME DAY/MAYBE</span>” LIST</h1>
+<a name="thesomedaymaybelist" />
+<h1>The “<span class="listname">some day/maybe</span>” list</h1>
 
 <p>You don't want to lose your million-dollar idea of making a “jumping to
 conclusions” mat that lets people jump to conclusions, but since this is a
@@ -308,7 +340,8 @@ and <span class="action">“start a cult”</span> should go. (Assuming – of c
 either of those things right now.)</p>
 
 
-<h1>CALENDAR</h1>
+<a name="calendar" />
+<h1>Calendar</h1>
 
 <p>The <span class="calendar">calendar</span> is for things you <i>have</i> to do
 on a certain date or at a certain time, and <i>nothing else</i>!  That's right;
@@ -323,12 +356,14 @@ actually tell you the things you <i>have</i> to do a certain day without being
 <span class="listname">next actions</span> list any way, so you will be reminded
 about it and have the chance to do it anyway if you have the time.</p>
 
-<h1>WEEKLY REVIEW</h1>
+<a name="weeklyreview" />
+<h1>Weekly review</h1>
 
 <p>Allen calls this a “critical factor for success”</p>
 
 
-<h1>GETTING IT TO WORK</h1>
+<a name="gettingittowork" />
+<h1>Getting it to work</h1>
 
 <p>To actually get your GTD system to work there are some important “rules” to
 follow.  ...</p>
@@ -336,9 +371,11 @@ follow.  ...</p>
 <p>It is important that you have <strong>hard edges</strong> between your lists,
 and between your <span class="listname">next actions</span> lists.</p>
 
-<h1>READ/REVIEW FOLDER</h1>
+<a name="readreviewfolder" />
+<h1>Read/review folder</h1>
 
-<h1>TICKLER FILE</h1>
+<a name="ticklerfile" />
+<h1>Tickler file</h1>
 
 <img src="images/tickle.png" alt="tickle!" style="width: 40%" />
 <p>This strangely-named concept is simply a collection of 43 file folders. Why

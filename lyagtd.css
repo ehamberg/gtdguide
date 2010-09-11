@@ -25,6 +25,11 @@ td {
     padding: 0 0.3em 0 1em;
 }
 
+a {
+    color: #002b3d;
+    text-decoration: underline;
+}
+
 
 h1, h2, h3, h4, h5, h6 {
     color: #002b3d;
@@ -104,4 +109,12 @@ span.context {
 span.action {
     padding: 0 0.2em 0 0.2em;
 	background-color: #d0d0ff;
+}
+
+div.toc {
+    width: 300px;
+    padding: 0.5em 1em;
+    background-color: #e0e0ff;
+    -moz-border-radius: 0.5em; /* FIXME: remove? */
+    border-radius: 0.5em;
 }
