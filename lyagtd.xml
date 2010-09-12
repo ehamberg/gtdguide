@@ -33,10 +33,11 @@
     <li><a href="#thenextactionslist">The “<span class="listname">next actions</span>” list</a></li>
     <li><a href="#thewaitingforlist">The “<span class="listname">waiting for</span>” list</a></li>
     <li><a href="#projects">Projects</a></li>
-    <li><a href="#contexts">Contexts</a></li>
-    <ol>
-        <li><a href="#agendacontexts">Agenda contexts</a></li>
-    </ol>
+    <li><a href="#contexts">Contexts</a>
+        <ol>
+            <li><a href="#agendacontexts">Agenda contexts</a></li>
+        </ol>
+    </li>
     <li><a href="#thesomedaymaybelist">The “<span class="listname">some day/maybe</span>” list</a></li>
     <li><a href="#calendar">Calendar</a></li>
     <li><a href="#weeklyreview">Weekly review</a></li>
@@ -202,21 +203,25 @@ you should follow this procedure:</p>
 
 <div class="important">
 <ul>
-    <li>If the item is NOT “actionable”:</li>
-         Throw it away, archive it for future reference, or put it on your “some
-         day/maybe” list.
-    <li>If item IS “actionable”:</li>
+    <li>If the item is NOT “actionable”:
+        <p>Throw it away, archive it for future reference, or put it on your “some
+            day/maybe” list.</p></li>
+    <li>If item IS “actionable”:
         <ul>
              <li>Work out the next physical, visible action.</li>
-             <li>If this action will it take 2 minutes or less:</li>
-                  Do it!
-             <li>If this action will it take more than 2 minutes:</li>
+             <li>If this action will it take 2 minutes or less:
+                 <p>Do it!</p>
+             </li>
+             <li>If this action will it take more than 2 minutes:
                 <ul>
-                  <li>Delegate it and add it to your <span class="listname">waiting for</span> list.</li>
-                  OR
+                  <li>Delegate it and add it to your <span class="listname">waiting for</span> list.
+                      <p>OR</p>
+                  </li>
                   <li>Add it to your <span class="listname">next actions</span> list of things to be done.</li>
                 </ul>
+            </li>
         </ul>
+    </li>
 </ul>
 </div>
 
