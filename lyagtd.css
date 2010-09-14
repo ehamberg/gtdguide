@@ -57,6 +57,7 @@ div.topheader {
     font-size: 2.8em;
     text-shadow: 4px 4px 4px #bbb;
 	line-height: 1.5em;
+    margin-bottom: 1em;
 }
 
 div.important {
@@ -117,4 +118,8 @@ div.toc {
     background-color: #e0e0ff;
     -moz-border-radius: 0.5em; /* FIXME: remove? */
     border-radius: 0.5em;
+}
+
+div.toc h2 {
+    text-align: center;
 }
