@@ -42,8 +42,12 @@
     <li><a href="#calendar">Calendar</a></li>
     <li><a href="#weeklyreview">Weekly review</a></li>
     <li><a href="#gettingittowork">Getting it to work</a></li>
-    <li><a href="#readreviewfolder">Read/review folder</a></li>
-    <li><a href="#ticklerfile">Tickler file</a></li>
+    <li><a href="#tools">Tools</a>
+        <ol>
+            <li><a href="#readreviewfolder">Read/review folder</a></li>
+            <li><a href="#ticklerfile">Tickler file</a></li>
+        </ol>
+    </li>
 </ol>
 </div>
 
@@ -377,11 +381,32 @@ follow.  ...</p>
 <p>It is important that you have <strong>hard edges</strong> between your lists,
 and between your <span class="listname">next actions</span> lists.</p>
 
+<h1>Tools</h1>
+
+<p>
+    The read/review folder and tickler file are two tools which – while they
+    aren't directly part of the GTD method – may be beneficial to use together
+    with GTD.
+</p>
+
 <a name="readreviewfolder" />
-<h1>Read/review folder</h1>
+<h2>Read/review folder</h2>
+
+<p>
+    A read/review folder is simply a folder you carry around, containing papers,
+    documents, and anything else you want to read. The idea is to have this
+    material available whenever you have a few minutes to kill. In the dentist's
+    waiting room? Waiting for your food at a café? Perfect opportunities to
+    peruse the paper on <i>Periophthalmus modestus</i> phylogeny or pretend to
+    read the memo from your boss.
+</p>
+
+<p>
+    Foo
+</p>
 
 <a name="ticklerfile" />
-<h1>Tickler file</h1>
+<h2>Tickler file</h2>
 
 <img src="images/tickle.png" alt="tickle!" style="width: 40%" />
 <p>This strangely-named concept is simply a collection of 43 file folders. Why
