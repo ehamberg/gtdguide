@@ -24,8 +24,8 @@
                               “GTD IN 15 MINUTES”
 </div>
 
-<h2>Table of contents:</h2>
 <div class="toc">
+<h2>Table of contents</h2>
 <ol>
     <li><a href="#whatisgtd">What is “GTD”?</a></li>
     <li><a href="#theinlist">The “<span class="listname">in</span>“ list</a></li>
@@ -34,19 +34,23 @@
     <li><a href="#thewaitingforlist">The “<span class="listname">waiting for</span>” list</a></li>
     <li><a href="#projects">Projects</a></li>
     <li><a href="#contexts">Contexts</a>
-        <ol>
+        <ul>
             <li><a href="#agendacontexts">Agenda contexts</a></li>
-        </ol>
+        </ul>
     </li>
     <li><a href="#thesomedaymaybelist">The “<span class="listname">some day/maybe</span>” list</a></li>
     <li><a href="#calendar">Calendar</a></li>
-    <li><a href="#weeklyreview">Weekly review</a></li>
+    <li><a href="#weeklyreview">Weekly review</a>
+        <ul>
+            <li><a href="#triggerlists">Trigger Lists</a></li>
+        </ul>
+    </li>
     <li><a href="#gettingittowork">Getting it to work</a></li>
     <li><a href="#tools">Tools</a>
-        <ol>
+        <ul>
             <li><a href="#readreviewfolder">Read/review folder</a></li>
             <li><a href="#ticklerfile">Tickler file</a></li>
-        </ol>
+        </ul>
     </li>
 </ol>
 </div>
@@ -381,6 +385,7 @@ follow.  ...</p>
 <p>It is important that you have <strong>hard edges</strong> between your lists,
 and between your <span class="listname">next actions</span> lists.</p>
 
+<a name="tools" />
 <h1>Tools</h1>
 
 <p>
@@ -444,8 +449,6 @@ items in the correct day folders.</p>
 
 <pre>
 * loc. 2383 -> introduction
-* table of contents
-    - anchors (link to trigger)
 * illustrations
 * change title
 * propz to lyah
