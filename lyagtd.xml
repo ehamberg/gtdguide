@@ -373,7 +373,61 @@ about it and have the chance to do it anyway if you have the time.</p>
 <a name="weeklyreview" />
 <h1>Weekly review</h1>
 
-<p>Allen calls this a “critical factor for success”</p>
+<p>
+    Allen calls the weekly review a “critical factor for success” and he is not
+    joking. If you start using the GTD framework and you are not a robot, things
+    will start to slip. You will complete the next action of a project and
+    forget to add a new, next action for that project. You will forget to remove
+    next actions that you – if you really thought about it – know that you won't
+    do in the near future because more important things have shown up.
+</p>
+
+<p>
+    <i>The weekly review</i> should be done – you guessed it – once per week. It
+    will take a while, so you should ideally set off some time in advance, for
+    example Friday or Sunday afternoon. When doing the weekly review you should
+    at least do the following:
+    <ul>
+        <li>Make sure each project has at least one next action.</li>
+        <li>Make sure that each action on your <span class="listname">next
+            actions</span> list is <i>actually</i> something you want to do if
+            you have the time. If not, move it (and/or the project it belongs
+            to) to your <span class="listname">someday/maybe</span> list.</li>
+        <li>Look through your someday/maybe list and see if some
+            projects/actions should be moved to the list of current projects/the
+            <span class="listname">next actions</span> list. If creating a new
+            project on your <span class="listname">projects</span> list, make
+            sure to find its next physical, visible action and put it on the
+            <span class="listname">next actions</span> list.</li>
+    </ul>
+</p>
+
+<a name="triggerlists" />
+<h2>Trigger lists</h2>
+<p>
+    When doing the weekly review it can be a good idea to work through a
+    “trigger list”. A trigger list is simply a list of key words to “trigger”
+    you to remember any open loops you still haven't captured in your system. A
+    trigger list could look like the following:
+    <ul>
+        <li>Boss</li>
+        <li>Co-workers</li>
+        <li>Projects started, not completed</li>
+        <li>Projects that need to be started</li>
+        <li>People I need to get back to</li>
+        <li>…</li>
+    </ul>
+
+    When working through your trigger list, put anything that you remember in
+    your <span class="listname">in</span> list to be processed afterwards.
+</p>
+<p>
+    An example of a trigger list can be seen at <a href="http://lifehacker.com/5611657/use-a-weekly-review-list-to-stay-a-step-ahead-this-semester">
+    <i>Lifehacker</i>'s trigger list for students</a>. You probably want to
+    customise your own list as you get more experience and learn what works best
+    for <i>you</i>.
+</p>
+
 
 
 <a name="gettingittowork" />
@@ -452,7 +506,6 @@ items in the correct day folders.</p>
 * illustrations
 * change title
 * propz to lyah
-* write about “trigger lists”
 </pre>
 </body>
 </html>
