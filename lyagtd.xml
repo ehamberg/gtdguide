@@ -24,6 +24,10 @@
                               “GTD IN 15 MINUTES”
 </div>
 
+<div class="headerimg">
+<img src="images/slinky.png" alt="welcome!" style="width: 30%" />
+</div>
+
 <div class="toc">
 <h2>Table of contents</h2>
 <ol>
@@ -352,6 +356,8 @@ either of those things right now.)</p>
 
 <a name="calendar" />
 <h1>Calendar</h1>
+
+<img src="images/calendar.png" alt="calendar" style="width: 30%" />
 
 <p>The <span class="calendar">calendar</span> is for things you <i>have</i> to do
 on a certain date or at a certain time, and <i>nothing else</i>!  That's right;
