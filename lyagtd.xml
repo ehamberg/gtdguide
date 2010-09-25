@@ -52,6 +52,7 @@
             <li><a href="#ticklerfile">Tickler file</a></li>
         </ul>
     </li>
+    <li><a href="#aboutthisguide">About this guide</a></li>
 </ol>
 </div>
 
@@ -72,7 +73,7 @@ recipe”</span>.  Everything!</p>
 
 <p>Sound like all other run-of-the-mill to-do list systems, you say? Well in
 many ways it is, but there is more to it, and it's really simple.  Promise! So
-please read on...</p>
+please read on.</p>
 
 <p>One of the basic assumptions of GTD is that you are dumb – or rather,
 that your subconsciousness is quite dumb when it comes to thinking about things
@@ -94,8 +95,8 @@ lessons, painting class, roller-blading, or whatever you kids do these days.</p>
 <p>
     Awesome! So how does it actually work? It works by using special yoga
     techniques and daily mental exercises.  No, haha! Just kidding.  It works by
-    maintaining lists, which every kid with paper and a pencil can do, even
-    computers can maintain lists these days!
+    simply maintaining lists, which every kid with paper and a pencil can do.
+    Even computers can maintain lists these days!
 </p>
 
 <p>You will have to make the following lists:</p>
@@ -492,15 +493,26 @@ items in the correct day folders.</p>
 <p>The tickler file thus provides a way to send yourself reminders in the future
 – “tickling” your memory. Aaaaah!</p>
 
+<a name="aboutthisguide" />
+<h1>About this guide</h1>
+
+<p>
+    This guide was written to serve as a simple, hands-on guide to the “getting
+    things done” method.
+</p>
+
+<p>
+    The guide's visual style was inspired by Miran Lipovača's excellent guide to
+    the Haskell programming language “<a
+    href="http://learnyouahaskell.com">Learn You a Haskell for Great Good!</a>”.
+</p>
+
 </div> <!-- end of hyphenation -->
 
-<h1>TODO</h1>
-
-<pre>
-* loc. 2383 -> introduction
-* illustrations
-* change title
-* propz to lyah
-</pre>
+<!--
+    TODO
+    * more illustrations
+    * change title
+-->
 </body>
 </html>
