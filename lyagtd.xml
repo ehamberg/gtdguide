@@ -24,40 +24,42 @@
             “GTD IN 15 MINUTES”
         </div>
 
-        <div class="headerimg">
-            <img src="images/slinky.png" alt="welcome!" style="width: 30%" />
-        </div>
+        <div class="header">
+            <div class="headerimg">
+                <img src="images/slinky.png" alt="welcome!" />
+            </div>
 
-        <div class="toc">
-            <h2>Table of contents</h2>
-            <ol>
-                <li><a href="#whatisgtd">What is “GTD”?</a></li>
-                <li><a href="#theinlist">The “<span class="listname">in</span>“ list</a></li>
-                <li><a href="#processingtheinlist">Processing the “<span class="listname">in</span>” list</a></li>
-                <li><a href="#thenextactionslist">The “<span class="listname">next actions</span>” list</a></li>
-                <li><a href="#thewaitingforlist">The “<span class="listname">waiting for</span>” list</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#contexts">Contexts</a>
-                    <ul>
-                        <li><a href="#agendacontexts">Agenda contexts</a></li>
-                    </ul>
-                </li>
-                <li><a href="#thesomedaymaybelist">The “<span class="listname">some day/maybe</span>” list</a></li>
-                <li><a href="#calendar">Calendar</a></li>
-                <li><a href="#weeklyreview">Weekly review</a>
-                    <ul>
-                        <li><a href="#triggerlists">Trigger Lists</a></li>
-                    </ul>
-                </li>
-                <li><a href="#gettingittowork">Getting it to work</a></li>
-                <li><a href="#tools">Tools</a>
-                    <ul>
-                        <li><a href="#readreviewfolder">Read/review folder</a></li>
-                        <li><a href="#ticklerfile">Tickler file</a></li>
-                    </ul>
-                </li>
-                <li><a href="#aboutthisguide">About this guide</a></li>
-            </ol>
+            <div class="toc">
+                <h2>Table of contents</h2>
+                <ol>
+                    <li><a href="#whatisgtd">What is “GTD”?</a></li>
+                    <li><a href="#theinlist">The “<span class="listname">in</span>“ list</a></li>
+                    <li><a href="#processingtheinlist">Processing the “<span class="listname">in</span>” list</a></li>
+                    <li><a href="#thenextactionslist">The “<span class="listname">next actions</span>” list</a></li>
+                    <li><a href="#thewaitingforlist">The “<span class="listname">waiting for</span>” list</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#contexts">Contexts</a>
+                        <ul>
+                            <li><a href="#agendacontexts">Agenda contexts</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#thesomedaymaybelist">The “<span class="listname">some day/maybe</span>” list</a></li>
+                    <li><a href="#calendar">Calendar</a></li>
+                    <li><a href="#weeklyreview">Weekly review</a>
+                        <ul>
+                            <li><a href="#triggerlists">Trigger Lists</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#gettingittowork">Getting it to work</a></li>
+                    <li><a href="#tools">Tools</a>
+                        <ul>
+                            <li><a href="#readreviewfolder">Read/review folder</a></li>
+                            <li><a href="#ticklerfile">Tickler file</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#aboutthisguide">About this guide</a></li>
+                </ol>
+            </div>
         </div>
 
         <div class="hyphenate"> <!-- hyphenate from here -->

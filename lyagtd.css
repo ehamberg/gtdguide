@@ -113,6 +113,7 @@ span.action {
 }
 
 div.toc {
+    float: left;
     width: 300px;
     padding: 0.5em 1em;
     background-color: #e0e0ff;
@@ -122,4 +123,20 @@ div.toc {
 
 div.toc h2 {
     text-align: center;
+}
+
+div.headerimg {
+    float: right;
+    width: 440px;
+}
+
+div.headerimg img {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.header {
+    overflow: auto;
 }
