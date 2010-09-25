@@ -14,7 +14,10 @@
    id="svg3847"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="slinky.svg">
+   sodipodi:docname="slinky.svg"
+   inkscape:export-filename="/home/ehamberg/Documents/GTDguide/images/slinky.png"
+   inkscape:export-xdpi="61.744419"
+   inkscape:export-ydpi="61.744419">
   <defs
      id="defs3849" />
   <sodipodi:namedview
@@ -24,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70000001"
-     inkscape:cx="13.608037"
-     inkscape:cy="354.87516"
+     inkscape:zoom="0.98994951"
+     inkscape:cx="250.41218"
+     inkscape:cy="321.82218"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -225,6 +228,24 @@
        style="opacity:0.90000000000000002;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 226.78898,228.9675 c -1.25691,-4.10323 -2.45441,-16.79344 -2.50086,-26.50229 -0.023,-4.81914 -0.32745,-8.02171 -1.09354,-11.50513 -1.02577,-4.66421 -1.0336,-4.97572 -0.2319,-9.23186 2.25062,-11.94834 2.75098,-14.85051 3.28472,-19.05198 0.3176,-2.50013 0.80216,-6.02303 1.07678,-7.82868 0.27462,-1.80565 0.4546,-4.87399 0.39995,-6.81853 -0.0883,-3.14022 0.33901,-4.94737 3.82123,-16.16244 2.16485,-6.97222 4.54569,-13.64475 5.31643,-14.89975 0.76771,-1.25006 2.43028,-4.24966 3.6946,-6.66577 2.84277,-5.43252 6.535,-10.664567 8.63183,-12.231683 1.75876,-1.314448 11.06048,-5.439617 14.21137,-6.302522 5.12484,-1.403493 10.26406,-0.36379 18.41981,3.726475 4.92521,2.470085 5.64919,3.003461 6.35347,4.68075 1.77959,4.23822 2.78093,10.11197 3.2933,19.31813 0.31057,5.58023 1.03503,12.16664 1.79858,16.35176 0.7032,3.85432 1.34583,8.96822 1.42808,11.36422 0.0822,2.396 0.31623,6.85649 0.51997,9.9122 0.74654,11.1967 -3.59516,31.85546 -7.88712,37.52859 -0.48397,0.63971 -1.48869,3.02619 -2.23271,5.30331 -0.74403,2.27711 -1.87032,5.04933 -2.50286,6.1605 -0.63255,1.11117 -1.49491,3.18442 -1.91636,4.60722 -1.1024,3.72161 -2.17902,5.605 -5.16182,9.02984 -1.45163,1.66675 -2.80225,3.55733 -3.00137,4.20128 -0.19912,0.64395 -1.17519,1.91602 -2.16904,2.82681 l -1.807,1.65599 -14.68929,0.31237 c -11.79419,0.25081 -15.71317,0.51492 -19.88424,1.34007 -2.85722,0.56523 -5.49184,1.0277 -5.8547,1.0277 -0.36287,0 -0.95566,-0.96596 -1.31731,-2.14658 z m 34.68315,-41.92133 c 2.04105,-2.15638 2.52737,-3.17365 3.48459,-7.28898 2.38379,-10.24849 3.05653,-19.89788 1.58281,-22.70289 -1.04931,-1.99721 -3.66944,-4.22705 -4.96691,-4.22705 -0.54552,0 -1.65158,-0.48775 -2.45792,-1.0839 -3.14162,-2.3227 -9.28966,-0.0946 -11.8651,4.30008 -1.8701,3.19108 -2.5412,7.55121 -1.73272,11.25745 0.35411,1.62333 0.6219,3.06515 0.59508,3.20404 -0.0268,0.1389 -0.40699,1.99152 -0.84482,4.11692 -1.33287,6.47022 0.0692,10.61979 4.03673,11.94699 1.67026,0.55873 2.26653,0.54269 3.9163,-0.10536 1.92862,-0.75758 1.95733,-0.75104 3.20345,0.72988 1.62862,1.9355 3.11833,1.89207 5.04851,-0.14718 l 0,0 z"
        id="path3779"
+       inkscape:connector-curvature="0"
+       transform="translate(198.60158,318.4742)" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="646.09918"
+       y="442.6217"
+       id="text3011"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3013"
+         x="646.09918"
+         y="442.6217"
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">β!</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.59999999999999964;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 304.05591,224.1526 c 25.95488,-24.22189 34.39781,-64.43669 61.61931,-84.85281"
+       id="path3017"
        inkscape:connector-curvature="0"
        transform="translate(198.60158,318.4742)" />
   </g>
