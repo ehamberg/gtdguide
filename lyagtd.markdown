@@ -26,7 +26,7 @@ OR:
 
 <div class="header">
 <div class="headerimg">
-<img src="images/slinky.png" alt="welcome!" />
+![welcome!](images/slinky.png)
 </div>
 
 <!-- }}} -->
@@ -88,7 +88,7 @@ more productive thinking – maybe even save *real* time so that you have more
 time for ballet lessons, painting class, roller-blading, or whatever you kids do
 these days.
 
-<img src="images/lists.png" alt="lists!" style="width: 240px;" />
+![lists!](images/lists.png)
 
 Awesome! So how does it actually work? It works by using special yoga techniques
 and daily mental exercises.  No, haha! Just kidding.  It works by simply
@@ -114,13 +114,14 @@ This run-through of the GTD method is meant to be brief. It's written from one
 person's perspective and other people would probably assess the importance of
 different aspects of GTD differently.
 
-If you want a complete overview of GTD you would be wise to read David
-Allen's book which formalised the method he developed: **“Getting Things
-Done: The Art of Stress-Free Productivity”** (<a href="http://www.amazon.com/gp/product/0142000280?ie=UTF8&amp;tag=erlehamb-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0142000280">Amazon</a><img src="http://www.assoc-amazon.com/e/ir?t=erlehamb-20&amp;l=as2&amp;o=1&amp;a=0142000280" width="1" height="1" alt="" style="border:none !important; margin:0px !important;" />,
-<a href="http://www.amazon.com/gp/product/B000WH7PKY?ie=UTF8&amp;tag=erlehamb-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000WH7PKY">Kindle Store</a><img src="http://www.assoc-amazon.com/e/ir?t=erlehamb-20&amp;l=as2&amp;o=1&amp;a=B000WH7PKY" width="1" height="1" alt="" style="border:none !important; margin:0px !important;" />,
-<a href="http://www.bookdepository.co.uk/book/9780142000281/Getting-Things-Done?a_aid=ehamberg">Bookdepository</a>,
-<a href="http://books.google.com/books?id=LAx_PwAACAAJ&amp;dq=getting+things+done">Google Books</a>,
-<a href="http://en.wikipedia.org/wiki/Getting_Things_Done">Wikipedia</a>).
+If you want a complete overview of GTD you would be wise to read
+David Allen's book which formalised the method he developed:
+**“Getting Things Done: The Art of Stress-Free Productivity”**
+([Amazon](http://www.amazon.com/gp/product/0142000280?ie=UTF8&tag=erlehamb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0142000280)![image](http://www.assoc-amazon.com/e/ir?t=erlehamb-20&l=as2&o=1&a=0142000280),
+[Kindle Store](http://www.amazon.com/gp/product/B000WH7PKY?ie=UTF8&tag=erlehamb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000WH7PKY)![image](http://www.assoc-amazon.com/e/ir?t=erlehamb-20&l=as2&o=1&a=B000WH7PKY),
+[Bookdepository](http://www.bookdepository.co.uk/book/9780142000281/Getting-Things-Done?a_aid=ehamberg),
+[Google Books](http://books.google.com/books?id=LAx_PwAACAAJ&dq=getting+things+done),
+[Wikipedia](http://en.wikipedia.org/wiki/Getting_Things_Done)).
 
 </div>
 
@@ -201,32 +202,23 @@ To summarise, when processing your <span class="listname">in</span> list(s), you
 should follow this procedure:
 
 <div class="important">
-<ul>
-<li>If the item is NOT “actionable”:
 
-Throw it away, archive it for future reference, or put it on your “some
-day/maybe” list.
-</li>
-<li>If item IS “actionable”:
-<ul>
-<li>Work out the next physical, visible action.</li>
-<li>If this action will it take 2 minutes or less:
-Do it!
+-   If the item is NOT “actionable”:
 
-</li>
-<li>If this action will it take more than 2 minutes:
-<ul>
-<li>Delegate it and add it to your <span class="listname">waiting for</span> list.
+    Throw it away, archive it for future reference, or put it on your
+    “some day/maybe” list.
 
-OR
+-   If item IS “actionable”:
+    -   Work out the next physical, visible action.
+    -   If this action will it take 2 minutes or less: Do it!
 
-</li>
-<li>Add it to your <span class="listname">next actions</span> list of things to be done.</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+    -   If this action will it take more than 2 minutes:
+        -   Delegate it and add it to your <span class="listname">waiting for</span> list.
+
+            OR
+
+        -   Add it to your <span class="listname">next actions</span> list of things to be done.
+
 </div>
 
 # The “<span class="listname">next actions</span>” list
@@ -264,7 +256,7 @@ projects.
 
 # Contexts
 
-<img src="images/computer.png" alt="computer!" style="width: 220px;" />
+![computer!](images/computer.png)
 
 Contexts are “tags” you put on the items on your <span class="listname">next
 actions</span> lists saying where the action can be done, or what equipment you
@@ -341,7 +333,7 @@ things right now.)
 
 # Calendar
 
-<img src="images/calendar.png" alt="calendar" style="width: 220px;" />
+![calendar!](images/calendar.png)
 
 The <span class="calendar">calendar</span> is for things you *have* to do on a
 certain date or at a certain time, and *nothing else*!  That's right; no putting
@@ -434,7 +426,7 @@ that show up during the day.
 
 ## Tickler file
 
-<img src="images/tickle.png" alt="tickle!" style="width: 280px;" />
+![tickle!](images/tickle.png)
 
 This strangely-named concept is simply a collection of 43 file folders. Why 43?
 Because that means that you can have one for each of the **31** days of a month
