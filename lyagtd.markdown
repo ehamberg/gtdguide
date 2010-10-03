@@ -1,60 +1,10 @@
-<!-- vim: set sw=2 et tw=80 ai spell foldmethod=marker :-->
-
-<!-- {{{ -->
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"> 
- 
-<html lang="en"> 
-<head> 
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
-  <title>LEARN YOURSELF A GTD</title>
-  <link rel="stylesheet" href="lyagtd.css" type="text/css" />
-  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css' />
-  <link href='http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold' rel='stylesheet' type='text/css' />
-  <style type="text/css">
-  body {
-    font-family: 'Droid Serif', serif;
-  }
-  </style>
-  <script src="hyphenate.js" type="text/javascript"></script>
-</head>
-<body>
 <div class="topheader">
+
 LEARN YOURSELF A GTD  
 OR:  
 “GTD IN 15 MINUTES”
+
 </div>
-
-<div class="header">
-<div class="headerimg">
-![welcome!](images/slinky.png)
-</div>
-
-<!-- }}} -->
-
-<div class="toc">
-## Table of contents
-
-1. [What is “GTD”?](#whatisgtd)
-1. [The “<span class="listname">in</span>“ list](#theinlist)
-1. [Processing the “<span class="listname">in</span>” list](#processingtheinlist)
-1. [The “<span class="listname">next actions</span>” list](#thenextactionslist)
-1. [The “<span class="listname">waiting for</span>” list](#thewaitingforlist)
-1. [Projects](#projects)
-1. [Contexts](#contexts)
-    1. [Agenda contexts](#agendacontexts)
-1. [The “<span class="listname">some day/maybe</span>” list](#thesomedaymaybelist)
-1. [Calendar](#calendar)
-1. [Weekly r](#weeklyreview)
-    1. [Trigger Lists](#triggerlists)
-1. [Getting it to work](#gettingittowork)
-1. [Tools](#tools)
-    1. [Read/review folder](#readreviewfolder)
-    1. [Tickler file](#ticklerfile)
-1. [About this guide](#aboutthisguide)
-</div>
-</div>
-
-<div class="hyphenate"> <!-- hyphenate from here -->
 
 # What is “GTD”?
 
@@ -460,14 +410,9 @@ The guide's visual style was inspired by Miran Lipovača's excellent guide to th
 Haskell programming language “[Learn You a Haskell for Great
 Good!](http://learnyouahaskell.com)”.
 
-</div> <!-- end of hyphenation -->
-
 <!--
 TODO
 * more illustrations
 * change title
 * http://wikisummaries.org/Getting_Things_Done:_The_Art_of_Stress-Free_Productivity
 -->
-
-</body>
-</html>

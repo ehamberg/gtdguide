@@ -112,7 +112,7 @@ span.action {
 	background-color: #d0d0ff;
 }
 
-div.toc {
+#TOC {
     float: left;
     width: 300px;
     padding: 0.5em 1em;
@@ -121,7 +121,7 @@ div.toc {
     border-radius: 0.5em;
 }
 
-div.toc h2 {
+#TOC h2 {
     text-align: center;
 }
 

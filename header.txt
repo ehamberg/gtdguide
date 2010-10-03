@@ -1,0 +1,7 @@
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css' />
+  <link href='http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold' rel='stylesheet' type='text/css' />
+  <style type="text/css">
+  body {
+    font-family: 'Droid Serif', serif;
+  }
+  </style>
