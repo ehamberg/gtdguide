@@ -45,6 +45,10 @@ h1 {
     text-shadow: 2px 2px 2px #bbb;
 }
 
+h1 a {
+    text-decoration: none;
+}
+
 img {
     float: right;
     margin-left: 1em;
@@ -115,12 +119,14 @@ span.action {
 }
 
 #TOC {
-    /*float: left;*/
+    float: right;
     width: 300px;
     padding: 0.5em 1em;
-    background-color: #e0e0ff;
     -moz-border-radius: 0.5em; /* FIXME: remove? */
+    border: 2px solid black;
+    background-color: #fff;
     border-radius: 0.5em;
+    margin: 1em 0 1em 1em;
 }
 
 #TOC h2 {
