@@ -36,14 +36,16 @@ $endfor$
 $if(title)$
 <div class="topheader">$title$</div>
 $endif$
+<div class="header">
+<div class="headerimg">
+	<img src="images/slinky.png" alt="welcome!" />
+</div>
 <div class="toc">
 <h2>Table of contents</h2>
 $if(toc)$
 $toc$
 $endif$
 </div>
-<div class="headerimg">
-	<img src="images/slinky.png" alt="welcome!" />
 </div>
 $body$
 $for(include-after)$
