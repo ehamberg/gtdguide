@@ -107,7 +107,7 @@
                 lessons, painting class, roller-blading, or whatever you kids do these days.
             </p>
 
-            <img src="images/lists.png" alt="lists!" style="width: 30%" />
+            <img src="images/lists.png" alt="lists!" style="width: 240px;" />
             <p>
                 Awesome! So how does it actually work? It works by using special yoga
                 techniques and daily mental exercises.  No, haha! Just kidding.  It works by
@@ -319,7 +319,7 @@
             <a name="contexts" />
             <h1>Contexts</h1>
 
-            <img src="images/computer.png" alt="computer!" style="width: 30%" />
+            <img src="images/computer.png" alt="computer!" style="width: 220px;" />
 
             <p>
                 Contexts are “tags” you put on the items on your <span class="listname">next
@@ -410,7 +410,7 @@
             <a name="calendar" />
             <h1>Calendar</h1>
 
-            <img src="images/calendar.png" alt="calendar" style="width: 30%" />
+            <img src="images/calendar.png" alt="calendar" style="width: 220px;" />
 
             <p>
                 The <span class="calendar">calendar</span> is for things you <i>have</i> to do on a
@@ -537,7 +537,7 @@
             <a name="ticklerfile" />
             <h2>Tickler file</h2>
 
-            <img src="images/tickle.png" alt="tickle!" style="width: 40%" />
+            <img src="images/tickle.png" alt="tickle!" style="width: 280px;" />
             <p>
                 This strangely-named concept is simply a collection of 43 file folders. Why 43?
                 Because that means that you can have one for each of the <strong>31</strong> days of
