@@ -421,7 +421,7 @@ room?  Waiting for your food at a café?  Both perfect opportunities to peruse t
 paper on *Periophthalmus modestus* phylogeny or pretend to read the memo from
 your boss!
 
-It is really imporant to have “sharp edges” here, too. Only the things you actually
+It is really important to have “sharp edges” here, too. Only the things you actually
 want to read when you have the time should be put in this folder so that you
 actually *will* pick it up during those little windows of free time that show
 up during the day.
