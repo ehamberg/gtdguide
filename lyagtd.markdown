@@ -1,10 +1,6 @@
-<div class="topheader">
-
-LEARN YOURSELF A GTD  
-OR:  
-“GTD IN 15 MINUTES”
-
-</div>
+% GTD in 15 minutes
+% Erlend Hamberg
+% Sun Oct  3 21:27:14 CEST 2010
 
 # What is “GTD”?
 
