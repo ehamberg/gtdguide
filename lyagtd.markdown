@@ -1,25 +1,26 @@
-<!-- vim: set sw=4 et tw=100 ai spell :-->
+<!-- vim: set sw=2 et tw=80 ai spell foldmethod=marker :-->
 
+<!-- {{{ -->
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"> 
  
 <html lang="en"> 
 <head> 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
-<title>LEARN YOURSELF A GTD</title>
-<link rel="stylesheet" href="lyagtd.css" type="text/css" />
-<link href='http://fonts.googleapis.com/css?family=Droid+Serif:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css' />
-<link href='http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold' rel='stylesheet' type='text/css' />
-<style type="text/css">
-body {
-font-family: 'Droid Serif', serif;
-}
-</style>
-<script src="hyphenate.js" type="text/javascript"></script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <title>LEARN YOURSELF A GTD</title>
+  <link rel="stylesheet" href="lyagtd.css" type="text/css" />
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css' />
+  <link href='http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold' rel='stylesheet' type='text/css' />
+  <style type="text/css">
+  body {
+    font-family: 'Droid Serif', serif;
+  }
+  </style>
+  <script src="hyphenate.js" type="text/javascript"></script>
 </head>
 <body>
 <div class="topheader">
-LEARN YOURSELF A GTD<br />
-OR:<br />
+LEARN YOURSELF A GTD  
+OR:  
 “GTD IN 15 MINUTES”
 </div>
 
@@ -27,6 +28,8 @@ OR:<br />
 <div class="headerimg">
 <img src="images/slinky.png" alt="welcome!" />
 </div>
+
+<!-- }}} -->
 
 <div class="toc">
 ## Table of contents
