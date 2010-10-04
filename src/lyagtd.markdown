@@ -396,6 +396,10 @@ The guide's visual style was inspired by Miran Lipovača's excellent guide to th
 Haskell programming language "[Learn You a Haskell for Great
 Good!](http://learnyouahaskell.com)".
 
+The guide is written in
+[Markdown](http://daringfireball.net/projects/markdown/) and I use the
+excellent [pandoc](http://johnmacfarlane.net/pandoc/) to generate XHTML.
+
 <!--
 TODO
 * more illustrations
