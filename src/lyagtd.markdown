@@ -43,11 +43,11 @@ computers can maintain lists these days!
 
 You will have to make the following lists:
 
-1. <span class="listname">In</span>
-1. <span class="listname">Next actions</span> (probably several)
-1. <span class="listname">Waiting for</span>
-1. <span class="listname">Projects</span>
-1. <span class="listname">Some day/maybe</span>
+1. @@In@@
+1. @@Next actions@@ (probably several)
+1. @@Waiting for@@
+1. @@Projects@@
+1. @@Some day/maybe@@
 
 These lists will be reviewed regularly and form the backbone of the GTD system.
 Their workings are described below.  In addition to the lists you will need a
@@ -71,14 +71,14 @@ David Allen's book which formalised the method he developed:
 
 </div>
 
-# The "<span class="listname">in</span>" list
+# The "@@in@@" list
 
-The <span class="listname">in</span> list is where you capture ideas and tasks
+The @@in@@ list is where you capture ideas and tasks
 as they occur to you.  Either by your boss telling you to bake her a carrot
 cake, or by you seeing a poster for a circus you want to see.  The barrier for
-adding something to your <span class="listname">in</span> list should be as low
+adding something to your @@in@@ list should be as low
 as possible--jot it down in a notebook or press the right buttons on your
-pocket telephone.  While I have called it *the* <span class="listname">in</span>
+pocket telephone.  While I have called it *the* @@in@@
 list, It is no problem to have more than one.  Maybe a computer program for when
 you are in front of a computer and a notebook for when you loiter outside the
 mall?  The important thing is that you are able to write down things as they
@@ -89,22 +89,20 @@ you want to--or have to--do.  These *open loops* as Allen calls them include
 *all* things that aren't as they should be or where they should be.  Do you need
 to replace your toothbrush? Return the tea cup you borrowed from your aunt
 Trillian? Should you repaint your bed in another colour?  All these things
-should go on your <span class="listname">in</span> list.
+should go on your @@in@@ list.
 
-# Processing the "<span class="listname">in</span>" list
+# Processing the "@@in@@" list
 
 <div class="remember">
 
-If you have just started to use GTD and collected tonnes of items in your <span
-class="listname">in</span> list during the initial "brain-emptying", this
-process can take a while.  However, after this the <span
-class="listname">in</span> list will be processed continuously.
+If you have just started to use GTD and collected tonnes of items in your @@in@@ list during the initial "brain-emptying", this
+process can take a while.  However, after this the @@in@@ list will be processed continuously.
 
 </div>
 
-The items on your <span class="listname">in</span> list should be processed one
+The items on your @@in@@ list should be processed one
 by one in the order they appear on your list.  When processing at an item in
-your <span class="listname">in</span> list the first question you need to ask is
+your @@in@@ list the first question you need to ask is
 **is it actionable?**--in other words, do you need to *do* something?  If the
 answer is NO, you either throw it away if you no longer need it, keep it as
 reference material ("I will probably need this article again some day..."), add
@@ -140,11 +138,11 @@ class="action">"e-mail funny cat video to grandma"</span>.)  The reason for this
 is simple: if the action takes two minutes or less, the overhead of tracking it
 will be very large compared to how long it takes to just *do* it.  If it takes
 more than two minutes you should **delegate** it if appropriate--noting what
-was delegated and when on a <span class="listname">waiting for</span> list, or
-add it to your own <span class="listname">next actions</span> list.  Unless your
+was delegated and when on a @@waiting for@@ list, or
+add it to your own @@next actions@@ list.  Unless your
 secret superpower is delegation, this is probably where most things will end up.
 
-To summarise, when processing your <span class="listname">in</span> list(s), you
+To summarise, when processing your @@in@@ list(s), you
 should follow this procedure:
 
 <div class="important">
@@ -159,28 +157,28 @@ should follow this procedure:
     -   If this action will it take 2 minutes or less: Do it!
 
     -   If this action will it take more than 2 minutes:
-        -   Delegate it and add it to your <span class="listname">waiting for</span> list.
+        -   Delegate it and add it to your @@waiting for@@ list.
 
             OR
 
-        -   Add it to your <span class="listname">next actions</span> list of things to be done.
+        -   Add it to your @@next actions@@ list of things to be done.
 
 </div>
 
-# The "<span class="listname">next actions</span>" list
+# The "@@next actions@@" list
 
-So what's the <span class="listname">next actions</span> list?  Well, uh, a list
+So what's the @@next actions@@ list?  Well, uh, a list
 of your next actions, obviously.  Another name for these actions is
 "as-soon-as-possible actions"--it is simply those things from which you will
 pick out what to work on when you are not watching funny cat videos on Youtube
 or playing Farmville.
 
-# The "<span class="listname">waiting for</span>" list
+# The "@@waiting for@@" list
 
 When you delegate work to others, send an e-mail you expect or need to be
 replied to, order something, or have a task that is "blocked" because you are
 waiting for someone else to do something, it should be written down on your
-<span class="listname">waiting for</span> list.  These items should always be
+@@waiting for@@ list.  These items should always be
 stamped with the current date so that you'll be able to e-mail your co-worker
 Marvin and say "I'm still waiting for the WTF report you said you'd finish
 within a month.  That was 32 days ago!".
@@ -189,30 +187,29 @@ within a month.  That was 32 days ago!".
 
 If your still with me you might have worried that a <span
 class="action">"research artificial intelligence textbooks"</span> action on
-your <span class="listname">next actions</span> list is all that is written down
-about your plan to take over the world.  Wouldn't it be easy to lose track once
-that action is done and erased from your list? Yes, it kinda would...  That's
-where the <span class="listname">projects</span> list comes in.
+your @@next actions@@ list is all that is written down about your plan to take
+over the world.  Wouldn't it be easy to lose track once that action is done and
+erased from your list? Yes, it kinda would...  That's where the @@projects@@
+list comes in.
 
 GTD's definition of a project is very broad.  It defines any objective that
 requires more than one action as a project.  These projects should go on your
-<span class="listname">projects</span> list.  This list is simply a list of
-project titles and--if you like--descriptions and intended outcomes of the
-projects.
+@@projects@@ list.  This list is simply a list of project titles and--if you
+like--descriptions and intended outcomes of the projects.
 
 # Contexts
 
 ![computer!](images/computer.png)
 
-Contexts are "tags" you put on the items on your <span class="listname">next
-actions</span> lists saying where the action can be done, or what equipment you
-need to perform it.  An action can be "tagged" with a context in several ways;
-the easiest is probably to simply have different <span class="listname">next
-actions</span> lists--one for each context. If you use a new-fangled electronic
-list manager you can often have "smart" lists for each tags--giving the same
-result. (With so-called smartphones it's probably even possible to use its
-location awareness to only present actions whose context match your current
-location. If so: that is amazing! We live in the future!)
+Contexts are "tags" you put on the items on your @@next actions@@ lists saying
+where the action can be done, or what equipment you need to perform it.  An
+action can be "tagged" with a context in several ways; the easiest is probably
+to simply have different @@next actions@@ lists--one for each context. If you
+use a new-fangled electronic list manager you can often have "smart" lists for
+each tags--giving the same result. (With so-called smartphones it's probably
+even possible to use its location awareness to only present actions whose
+context match your current location. If so: that is amazing! We live in the
+future!)
 
 It is common to prefix contexts with an '@' which makes sense when the context
 is a location, but should just be thought of as a notation in other cases.
@@ -258,24 +255,21 @@ weekly meeting with Foobert, you might consider having a "<span
 class="context">@ Foobert Agenda</span>" context.  These contexts will of course
 change along with changing teams/managers/supervisor, etc.
 
-# The "<span class="listname">some day/maybe</span>" list
+# The "@@some day/maybe@@" list
 
 You don't want to lose your million-dollar idea of making a "jumping to
 conclusions" mat that lets people jump to conclusions, but since this is a
 project you want to realise when you have more time you don't want to have it
-"pollute" your <span class="listname">next actions</span> lists or your list of
-<span class="listname">projects</span> either. (Remember that the <span
-class="listname">next actions</span> only contains the things that should be
-done as soon as possible and that your <span class="listname">projects</span>
-list will be reviewed regularly to make sure that all projects have at least one
-next action.)
+"pollute" your @@next actions@@ lists or your list of @@projects@@ either.
+(Remember that the @@next actions@@ only contains the things that should be
+done as soon as possible and that your @@projects@@ list will be reviewed
+regularly to make sure that all projects have at least one next action.)
 
-This is where the <span class="listname">some day/maybe</span> list comes it.
-This list simply contains ideas and projects you *might* want to realise at some
-time in the future. This is where both <span class="action">"replace ugly
-painting in bed room"</span> and <span class="action">"start a cult"</span>
-should go.  (Assuming--of course--that you don't want to do either of those
-things right now.)
+This is where the @@some day/maybe@@ list comes it.  This list simply contains
+ideas and projects you *might* want to realise at some time in the future. This
+is where both <span class="action">"replace ugly painting in bed room"</span>
+and <span class="action">"start a cult"</span> should go.  (Assuming--of
+course--that you don't want to do either of those things right now.)
 
 # Calendar
 
@@ -289,9 +283,9 @@ Wednesday if you just *now* think you *want* to have it done then.
 Why?  By only having items which really are time and date sensitive on your
 <span class="calendar">calendar</span> it will be more useful since it will
 actually tell you the things you *have* to do a certain day without being
-"diluted" with other items.  The thing you *want* to do will be on your <span
-class="listname">next actions</span> list any way, so you will be reminded about
-it and have the chance to do it anyway if you have the time.
+"diluted" with other items.  The thing you *want* to do will be on your @@next
+actions@@ list any way, so you will be reminded about it and have the chance to
+do it anyway if you have the time.
 
 # Weekly review
 
@@ -308,16 +302,13 @@ Friday or Sunday afternoon. When doing the weekly review you should at least do
 the following:
 
 * Make sure each project has at least one next action.
-* Make sure that each action on your <span class="listname">next actions</span>
-  list is *actually* something you want to do if you have the time. If not, move
-  it (and/or the project it belongs to) to your <span
-  class="listname">someday/maybe</span> list.
+* Make sure that each action on your @@next actions@@ list is *actually*
+  something you want to do if you have the time. If not, move it (and/or the
+  project it belongs to) to your @@someday/maybe@@ list.
 * Look through your someday/maybe list and see if some projects/actions should
-  be moved to the list of current projects/the <span class="listname">next
-  actions</span> list. If creating a new project on your <span
-  class="listname">projects</span> list, make sure to find its next physical,
-  visible action and put it on the <span class="listname">next actions</span>
-  list.
+  be moved to the list of current projects/the @@next actions@@ list. If
+  creating a new project on your @@projects@@ list, make sure to find its next
+  physical, visible action and put it on the @@next actions@@ list.
 
 ## Trigger lists
 
@@ -334,7 +325,7 @@ list could look like the following:
 * ...
 
 When working through your trigger list, put anything that you remember in your
-<span class="listname">in</span> list to be processed afterwards.
+@@in@@ list to be processed afterwards.
 
 An example of a trigger list can be seen at [*Lifehacker*'s trigger list for
 students](http://lifehacker.com/5611657/use-a-weekly-review-list-to-stay-a-step-ahead-this-semester).
@@ -347,7 +338,7 @@ To actually get your GTD system to work there are some important "rules" to
 follow.  ...
 
 It is important that you have **hard edges** between your lists, and between
-your <span class="listname">next actions</span> lists.
+your @@next actions@@ lists.
 
 # Tools
 
@@ -357,13 +348,13 @@ directly part of the GTD method--may be beneficial to use together with GTD.
 ## Read/review folder
 
 You will probably have quite a few <span class="action">"read [some
-document]"</span> actions on their <span class="listname">next actions</span>
-list.  A read/review folder is simply a physical folder you carry around,
-containing the papers, documents, and anything else you want to read.  The idea
-is to have this material available whenever you have a few minutes to kill. In
-the dentist's waiting room?  Waiting for your food at a café?  Both perfect
-opportunities to peruse the paper on *Periophthalmus modestus* phylogeny or
-pretend to read the memo from your boss!
+document]"</span> actions on their @@next actions@@ list.  A read/review folder
+is simply a physical folder you carry around, containing the papers, documents,
+and anything else you want to read.  The idea is to have this material
+available whenever you have a few minutes to kill. In the dentist's waiting
+room?  Waiting for your food at a café?  Both perfect opportunities to peruse
+the paper on *Periophthalmus modestus* phylogeny or pretend to read the memo
+from your boss!
 
 It is really important to have "sharp edges" here, too. Only the things you
 actually want to read when you have the time should be put in this folder so
