@@ -2,16 +2,22 @@
 % Erlend Hamberg
 % Sun Oct  3 21:27:14 CEST 2010
 
+<!-- @@listname@@
+     ^^action^^
+     !!context!!
+     ~~calendar~~
+-->
+
 # What is "GTD"?
 
 GTD--or "Getting things done"--is a framework for organising and tracking your
 tasks and projects.  Its aim is a bit higher than just "getting things done",
 though.  (It should have been called "Getting things done in a much better way
 than just letting things happen, which often turns out not to be very cool at
-all".)  Its aim is to make you have 100% trust in a system for collecting tasks,
-ideas, and projects--both vague things like <span class="action">"invent
-greatest thing ever"</span> and concrete things like <span class="action">"call
-Ada 25 August to discuss cheesecake recipe"</span>.  *Everything*!
+all".)  Its aim is to make you have 100% trust in a system for collecting
+tasks, ideas, and projects--both vague things like ^^"invent greatest thing
+ever"^^ and concrete things like ^^"call Ada 25 August to discuss cheesecake
+recipe"^^.  *Everything*!
 
 Sound like all other run-of-the-mill to-do list systems, you say? Well in many
 ways it is, but there is more to it, and it's really simple.  Promise! So please
@@ -51,8 +57,7 @@ You will have to make the following lists:
 
 These lists will be reviewed regularly and form the backbone of the GTD system.
 Their workings are described below.  In addition to the lists you will need a
-<span class="calendar">calendar</span> which lets you write down both date and
-time bound tasks/events.
+~~calendar~~ which lets you write down both date and time bound tasks/events.
 
 <div class="important">
 
@@ -73,52 +78,51 @@ David Allen's book which formalised the method he developed:
 
 # The "@@in@@" list
 
-The @@in@@ list is where you capture ideas and tasks
-as they occur to you.  Either by your boss telling you to bake her a carrot
-cake, or by you seeing a poster for a circus you want to see.  The barrier for
-adding something to your @@in@@ list should be as low
-as possible--jot it down in a notebook or press the right buttons on your
-pocket telephone.  While I have called it *the* @@in@@
-list, It is no problem to have more than one.  Maybe a computer program for when
-you are in front of a computer and a notebook for when you loiter outside the
-mall?  The important thing is that you are able to write down things as they
-occur to you.  We want to offload work from the brain, remember?
+The @@in@@ list is where you capture ideas and tasks as they occur to you.
+Either by your boss telling you to bake her a carrot cake, or by you seeing a
+poster for a circus you want to see.  The barrier for adding something to your
+@@in@@ list should be as low as possible--jot it down in a notebook or press
+the right buttons on your pocket telephone.  While I have called it *the*
+@@in@@ list, It is no problem to have more than one.  Maybe a computer program
+for when you are in front of a computer and a notebook for when you loiter
+outside the mall?  The important thing is that you are able to write down
+things as they occur to you.  We want to offload work from the brain, remember?
 
-When you first start to use GTD you should take an hour to write down all things
-you want to--or have to--do.  These *open loops* as Allen calls them include
-*all* things that aren't as they should be or where they should be.  Do you need
-to replace your toothbrush? Return the tea cup you borrowed from your aunt
-Trillian? Should you repaint your bed in another colour?  All these things
+When you first start to use GTD you should take an hour to write down all
+things you want to--or have to--do.  These *open loops* as Allen calls them
+include *all* things that aren't as they should be or where they should be.  Do
+you need to replace your toothbrush? Return the tea cup you borrowed from your
+aunt Trillian? Should you repaint your bed in another colour?  All these things
 should go on your @@in@@ list.
 
 # Processing the "@@in@@" list
 
 <div class="remember">
 
-If you have just started to use GTD and collected tonnes of items in your @@in@@ list during the initial "brain-emptying", this
-process can take a while.  However, after this the @@in@@ list will be processed continuously.
+If you have just started to use GTD and collected tonnes of items in your
+@@in@@ list during the initial "brain-emptying", this process can take a while.
+However, after this the @@in@@ list will be processed continuously.
 
 </div>
 
-The items on your @@in@@ list should be processed one
-by one in the order they appear on your list.  When processing at an item in
-your @@in@@ list the first question you need to ask is
-**is it actionable?**--in other words, do you need to *do* something?  If the
-answer is NO, you either throw it away if you no longer need it, keep it as
-reference material ("I will probably need this article again some day..."), add
-it to a "some day/maybe list" (for things like <span class="action">"learn
-Indonesian"</span>), or **incubate** it.  Wait, what! Sit on it?  Yes, sort of.
-If it's something that you want to remind yourself of later ("I really didn't
-understand this article, I should have a look at it again in two weeks") it
-should go into your calendar or your tickler file.  Don't know what a tickler
-file is?  Worry not, it is introduced below and its weird name explained.
+The items on your @@in@@ list should be processed one by one in the order they
+appear on your list.  When processing at an item in your @@in@@ list the first
+question you need to ask is **is it actionable?**--in other words, do you need
+to *do* something?  If the answer is NO, you either throw it away if you no
+longer need it, keep it as reference material ("I will probably need this
+article again some day..."), add it to a "some day/maybe list" (for things like
+^^"learn Indonesian"^^), or **incubate** it.  Wait, what! Sit on it?  Yes, sort
+of.  If it's something that you want to remind yourself of later ("I really
+didn't understand this article, I should have a look at it again in two weeks")
+it should go into your calendar or your tickler file.  Don't know what a
+tickler file is?  Worry not, it is introduced below and its weird name
+explained.
 
 Now, if the item you're currently processing *is* actionable--in other words:
 something should be done about it--you should ask the question "*what is the
 next action?*"  **The next action needs to be a *physical* and *visible*
-action**.  In other words, not <span class="action">"plan cake lottery"</span>,
-but <span class="action">"e-mail Arthur and Camille and remind them to bake
-their cakes"</span>.
+action**.  In other words, not @@"plan cake lottery"@@, but ^^"e-mail Arthur
+and Camille and remind them to bake their cakes"^^.
 
 <div class="important">
 
@@ -133,17 +137,17 @@ this greatly lowers the resistance to *do* the things.
 </div>
 
 When you have determined the next action you should consider if it takes two
-minutes or less to do it.  If it does, do it right away.  (Things like and <span
-class="action">"e-mail funny cat video to grandma"</span>.)  The reason for this
-is simple: if the action takes two minutes or less, the overhead of tracking it
-will be very large compared to how long it takes to just *do* it.  If it takes
-more than two minutes you should **delegate** it if appropriate--noting what
-was delegated and when on a @@waiting for@@ list, or
-add it to your own @@next actions@@ list.  Unless your
-secret superpower is delegation, this is probably where most things will end up.
+minutes or less to do it.  If it does, do it right away.  (Things like and
+^^"e-mail funny cat video to grandma"^^.)  The reason for this is simple: if
+the action takes two minutes or less, the overhead of tracking it will be very
+large compared to how long it takes to just *do* it.  If it takes more than two
+minutes you should **delegate** it if appropriate--noting what was delegated
+and when on a @@waiting for@@ list, or add it to your own @@next actions@@
+list.  Unless your secret superpower is delegation, this is probably where most
+things will end up.
 
-To summarise, when processing your @@in@@ list(s), you
-should follow this procedure:
+To summarise, when processing your @@in@@ list(s), you should follow this
+procedure:
 
 <div class="important">
 
@@ -167,30 +171,28 @@ should follow this procedure:
 
 # The "@@next actions@@" list
 
-So what's the @@next actions@@ list?  Well, uh, a list
-of your next actions, obviously.  Another name for these actions is
-"as-soon-as-possible actions"--it is simply those things from which you will
-pick out what to work on when you are not watching funny cat videos on Youtube
-or playing Farmville.
+So what's the @@next actions@@ list?  Well, uh, a list of your next actions,
+obviously.  Another name for these actions is "as-soon-as-possible actions"--it
+is simply those things from which you will pick out what to work on when you
+are not watching funny cat videos on Youtube or playing Farmville.
 
 # The "@@waiting for@@" list
 
 When you delegate work to others, send an e-mail you expect or need to be
 replied to, order something, or have a task that is "blocked" because you are
 waiting for someone else to do something, it should be written down on your
-@@waiting for@@ list.  These items should always be
-stamped with the current date so that you'll be able to e-mail your co-worker
-Marvin and say "I'm still waiting for the WTF report you said you'd finish
-within a month.  That was 32 days ago!".
+@@waiting for@@ list.  These items should always be stamped with the current
+date so that you'll be able to e-mail your co-worker Marvin and say "I'm still
+waiting for the WTF report you said you'd finish within a month.  That was 32
+days ago!".
 
 # Projects
 
-If your still with me you might have worried that a <span
-class="action">"research artificial intelligence textbooks"</span> action on
-your @@next actions@@ list is all that is written down about your plan to take
-over the world.  Wouldn't it be easy to lose track once that action is done and
-erased from your list? Yes, it kinda would...  That's where the @@projects@@
-list comes in.
+If your still with me you might have worried that a ^^"research artificial
+intelligence textbooks"^^ action on your @@next actions@@ list is all that is
+written down about your plan to take over the world.  Wouldn't it be easy to
+lose track once that action is done and erased from your list? Yes, it kinda
+would...  That's where the @@projects@@ list comes in.
 
 GTD's definition of a project is very broad.  It defines any objective that
 requires more than one action as a project.  These projects should go on your
@@ -213,8 +215,7 @@ future!)
 
 It is common to prefix contexts with an '@' which makes sense when the context
 is a location, but should just be thought of as a notation in other cases.
-Examples of contexts are <span class="context">@ home</span>, <span
-class="context">@ computer</span>, and <span class="context">@ office</span>.
+Examples of contexts are !!@ home!!, !!@ computer!!, and !!@ office!!.
 
 ### Examples of actions and their contexts
 
@@ -225,24 +226,23 @@ class="context">@ computer</span>, and <span class="context">@ office</span>.
 <th>Context</th>
 </tr>
 <tr>
-<td><span class="action">Buy more rainbow-coloured dog food</span></td>
-<td><span class="context">@ city</span> or <span class="context">@ store</span></td>
+<td>@@Buy more rainbow-coloured dog food@@</td>
+<td>!!@ city!! or !!@ store!!</td>
 </tr>
 <tr>
-<td><span class="action">Browse cuteoverload.com</span></td>
-<td><span class="context">@ computer</span> or <span class="context">@
-the world wide webs</span></td>
+<td>@@Browse cuteoverload.com@@</td>
+<td>!!@ computer!! or !!@ the world wide webs!!</td>
 </tr>
 <tr>
-<td><span class="action">Smile to a stranger</span></td>
-<td><span class="context">@ everywhere</span></td>
+<td>@@Smile to a stranger@@</td>
+<td>!!@ everywhere!!</td>
 </tr>
 </table>
 </div>
 
-How many contexts you need depend on how many next actions you will have and how
-your work day looks like.  The important thing is to be able to assess--at a
-glance--what your possible actions are depending on where you physically are
+How many contexts you need depend on how many next actions you will have and
+how your work day looks like.  The important thing is to be able to assess--at
+a glance--what your possible actions are depending on where you physically are
 and what equipment you have available.  It can also be a good idea to make an
 "everywhere" context for things you can do no matter where you are ("FOO").
 
@@ -251,9 +251,9 @@ and what equipment you have available.  It can also be a good idea to make an
 If you have regular meetings with people, it can be beneficial to have "agenda
 contexts"--one for each person--where you write down the things you want to
 talk about during the next meeting as they occur. For example, if you have a
-weekly meeting with Foobert, you might consider having a "<span
-class="context">@ Foobert Agenda</span>" context.  These contexts will of course
-change along with changing teams/managers/supervisor, etc.
+weekly meeting with Foobert, you might consider having a "!!@ Foobert Agenda!!"
+context.  These contexts will of course change along with changing
+teams/managers/supervisor, etc.
 
 # The "@@some day/maybe@@" list
 
@@ -267,39 +267,39 @@ regularly to make sure that all projects have at least one next action.)
 
 This is where the @@some day/maybe@@ list comes it.  This list simply contains
 ideas and projects you *might* want to realise at some time in the future. This
-is where both <span class="action">"replace ugly painting in bed room"</span>
-and <span class="action">"start a cult"</span> should go.  (Assuming--of
-course--that you don't want to do either of those things right now.)
+is where both @@"replace ugly painting in bed room"@@ and @@"start a cult"@@
+should go.  (Assuming--of course--that you don't want to do either of those
+things right now.)
 
 # Calendar
 
 ![calendar!](images/calendar.png)
 
-The <span class="calendar">calendar</span> is for things you *have* to do on a
-certain date or at a certain time, and *nothing else*!  That's right; no putting
-<span class="action">"install Bonzibudddy"</span> on your calendar for next
-Wednesday if you just *now* think you *want* to have it done then.
+The ~~calendar~~ is for things you *have* to do on a certain date or at a
+certain time, and *nothing else*!  That's right; no putting @@"install
+Bonzibudddy"@@ on your calendar for next Wednesday if you just *now* think you
+*want* to have it done then.
 
 Why?  By only having items which really are time and date sensitive on your
-<span class="calendar">calendar</span> it will be more useful since it will
-actually tell you the things you *have* to do a certain day without being
-"diluted" with other items.  The thing you *want* to do will be on your @@next
-actions@@ list any way, so you will be reminded about it and have the chance to
-do it anyway if you have the time.
+~~calendar~~ it will be more useful since it will actually tell you the things
+you *have* to do a certain day without being "diluted" with other items.  The
+thing you *want* to do will be on your @@next actions@@ list any way, so you
+will be reminded about it and have the chance to do it anyway if you have the
+time.
 
 # Weekly review
 
 Allen calls the weekly review a "critical factor for success" and he is not
 joking.  If you start using the GTD framework and you are not a robot, things
-will start to slip. You will complete the next action of a project and forget to
-add a new, next action for that project. You will forget to remove next actions
-that you--if you really thought about it--know that you won't do in the near
-future because more important things have shown up.
+will start to slip. You will complete the next action of a project and forget
+to add a new, next action for that project. You will forget to remove next
+actions that you--if you really thought about it--know that you won't do in the
+near future because more important things have shown up.
 
-*The weekly review* should be done--you guessed it--once per week. It will
-take a while, so you should ideally set off some time in advance, for example
-Friday or Sunday afternoon. When doing the weekly review you should at least do
-the following:
+*The weekly review* should be done--you guessed it--once per week. It will take
+a while, so you should ideally set off some time in advance, for example Friday
+or Sunday afternoon. When doing the weekly review you should at least do the
+following:
 
 * Make sure each project has at least one next action.
 * Make sure that each action on your @@next actions@@ list is *actually*
@@ -347,14 +347,13 @@ directly part of the GTD method--may be beneficial to use together with GTD.
 
 ## Read/review folder
 
-You will probably have quite a few <span class="action">"read [some
-document]"</span> actions on their @@next actions@@ list.  A read/review folder
-is simply a physical folder you carry around, containing the papers, documents,
-and anything else you want to read.  The idea is to have this material
-available whenever you have a few minutes to kill. In the dentist's waiting
-room?  Waiting for your food at a café?  Both perfect opportunities to peruse
-the paper on *Periophthalmus modestus* phylogeny or pretend to read the memo
-from your boss!
+You will probably have quite a few ^^"read [some document]"^^ actions on their
+@@next actions@@ list.  A read/review folder is simply a physical folder you
+carry around, containing the papers, documents, and anything else you want to
+read.  The idea is to have this material available whenever you have a few
+minutes to kill. In the dentist's waiting room?  Waiting for your food at a
+café?  Both perfect opportunities to peruse the paper on *Periophthalmus
+modestus* phylogeny or pretend to read the memo from your boss!
 
 It is really important to have "sharp edges" here, too. Only the things you
 actually want to read when you have the time should be put in this folder so
