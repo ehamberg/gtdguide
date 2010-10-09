@@ -50,31 +50,14 @@ computers can maintain lists these days!
 You will have to make the following lists:
 
 1. @@In@@
-1. @@Next actions@@ (probably several)
+1. @@Next actions@@ (probably several – more on that later)
 1. @@Waiting for@@
 1. @@Projects@@
 1. @@Some day/maybe@@
 
 These lists will be reviewed regularly and form the backbone of the GTD system.
 Their workings are described below.  In addition to the lists you will need a
-~~calendar~~ which lets you write down both date and time bound tasks/events.
-
-<div class="important">
-
-This run-through of the GTD method is meant to be brief. It's written from one
-person's perspective and other people would probably assess the importance of
-different aspects of GTD differently.
-
-If you want a complete overview of GTD you would be wise to read
-David Allen's book which formalised the method he developed:
-**"Getting Things Done: The Art of Stress-Free Productivity"**
-([Amazon](http://www.amazon.com/gp/product/0142000280?ie=UTF8&tag=erlehamb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0142000280)![image](http://www.assoc-amazon.com/e/ir?t=erlehamb-20&l=as2&o=1&a=0142000280),
-[Kindle Store](http://www.amazon.com/gp/product/B000WH7PKY?ie=UTF8&tag=erlehamb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000WH7PKY)![image](http://www.assoc-amazon.com/e/ir?t=erlehamb-20&l=as2&o=1&a=B000WH7PKY),
-[Bookdepository](http://www.bookdepository.co.uk/book/9780142000281/Getting-Things-Done?a_aid=ehamberg),
-[Google Books](http://books.google.com/books?id=LAx_PwAACAAJ&dq=getting+things+done),
-[Wikipedia](http://en.wikipedia.org/wiki/Getting_Things_Done)).
-
-</div>
+~~calendar~~ which lets you write down date and time sensitive tasks and events.
 
 # The "@@in@@" list
 
@@ -390,7 +373,18 @@ future--"tickling" your memory. Aaaaah!
 # About this guide
 
 This guide was written to serve as a simple, pragmatic guide to the "getting
-things done" method.
+things done" method.  This run-through of the GTD method is meant to be brief.
+It's written from one person's perspective and other people would probably
+assess the importance of different aspects of GTD differently.
+
+If you want a complete overview of GTD you would be wise to read
+David Allen's book which formalised the method he developed:
+**"Getting Things Done: The Art of Stress-Free Productivity"**
+([Amazon](http://www.amazon.com/gp/product/0142000280?ie=UTF8&tag=erlehamb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0142000280)![image](http://www.assoc-amazon.com/e/ir?t=erlehamb-20&l=as2&o=1&a=0142000280),
+[Kindle Store](http://www.amazon.com/gp/product/B000WH7PKY?ie=UTF8&tag=erlehamb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000WH7PKY)![image](http://www.assoc-amazon.com/e/ir?t=erlehamb-20&l=as2&o=1&a=B000WH7PKY),
+[Bookdepository](http://www.bookdepository.co.uk/book/9780142000281/Getting-Things-Done?a_aid=ehamberg),
+[Google Books](http://books.google.com/books?id=LAx_PwAACAAJ&dq=getting+things+done),
+[Wikipedia](http://en.wikipedia.org/wiki/Getting_Things_Done)).
 
 The guide's visual style was inspired by Miran Lipovača's excellent guide to the
 Haskell programming language "[Learn You a Haskell for Great
