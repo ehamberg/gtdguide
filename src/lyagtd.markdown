@@ -43,7 +43,7 @@ more productive thinking--maybe even save *real* time so that you have more
 time for ballet lessons, painting class, roller-blading, or whatever you kids do
 these days.
 
-![lists!](images/lists.png)
+![lists!](images/lists.png)\
 
 Awesome! So how does it actually work? It works by using special yoga techniques
 and daily mental exercises.  No, haha! Just kidding.  It works by simply
@@ -187,7 +187,7 @@ like--descriptions and intended outcomes of the projects.
 
 # Contexts
 
-![computer!](images/computer.png)
+![computer!](images/computer.png)\
 
 Contexts are "tags" you put on the items on your @@next actions@@ lists saying
 where the action can be done, or what equipment you need to perform it.  An
@@ -348,7 +348,7 @@ that show up during the day.
 
 ## Tickler file
 
-![tickle!](images/tickle.png)
+![tickle!](images/tickle.png)\
 
 This strangely-named concept is simply a collection of 43 file folders. Why 43?
 Because that means that you can have one for each of the **31** days of a month
