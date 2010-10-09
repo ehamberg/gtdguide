@@ -291,7 +291,7 @@ or Sunday afternoon. When doing the weekly review you should at least do the
 following:
 
 * Make sure each project has at least one next action.  Make sure that each
-* action on your @@next actions@@ list is *actually*
+  action on your @@next actions@@ list is *actually*
   something you want or need to do if you have the time during the coming week.
   If not, move it (and/or the project it belongs to) to your @@someday/maybe@@
   list.
