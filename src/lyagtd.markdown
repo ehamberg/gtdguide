@@ -28,20 +28,21 @@ read on.
 
 One of the basic assumptions of GTD is that you are dumb--or rather, that your
 subconsciousness is quite dumb when it comes to thinking about things you
-*should* have done.  Like knowing you need to buy more flour and sugar, but
-forgetting to remind you when you actually are in the store.
+*should* have done.  Like knowing you need to fix your bike before next week,
+but instead of reminding you when you actually drive by the hardware store that
+has the parts you need, it implants an incessant feeling of *"I need to
+remember...  something"* in your brain.
 
 A great part of the "magic" is to convert both tasks and whims into *physical*
-and *visible* **actions**.
+and *visible* **actions** as you soon will see.
 
 What GTD gives you--when understood and implemented properly--is a foolproof
 system for keeping track of what you need to do, should do, or should *consider*
-to do. When your system and your trust in your system is in place your your
+to do. When your system and your trust in your system is in place, your
 subconsciousness will stop keeping track of all the things you need to do and
-constantly reminding you.  This reduces stress, frees up precious brain time to
-more productive thinking--maybe even save *real* time so that you have more
-time for ballet lessons, painting class, roller-blading, or whatever you kids do
-these days.
+stop constantly reminding you.  This reduces stress, frees up precious brain
+time to more productive thinking--maybe even save *real* time so that you have
+more time for ballet lessons, painting class and roller-blading.
 
 ![lists!](images/lists.png)\
 
@@ -87,7 +88,7 @@ should go on your @@in@@ list.
 
 If you have just started to use GTD and collected tonnes of items in your
 @@in@@ list during the initial "brain-emptying", this process can take a while.
-However, after this the @@in@@ list will be processed continuously.
+From now on the @@in@@ list will be processed continuously.
 
 </div>
 
@@ -230,76 +231,79 @@ How many contexts you need depend on how many next actions you will have and
 how your work day looks like.  The important thing is to be able to assess--at
 a glance--what your possible actions are depending on where you physically are
 and what equipment you have available.  It can also be a good idea to make an
-"everywhere" context for things you can do no matter where you are ("FOO").
+"everywhere" context for things you can do no matter where you are (@@"Call
+mom and get goulash recipe"@@).
 
 ## Agenda contexts
 
 If you have regular meetings with people, it can be beneficial to have "agenda
-contexts"--one for each person--where you write down the things you want to
-talk about during the next meeting as they occur. For example, if you have a
+contexts"--one for each person--where you note down the things you want to talk
+about during the next meeting as you think of them. For example, if you have a
 weekly meeting with Foobert, you might consider having a "!!@ Foobert Agenda!!"
-context.  These contexts will of course change along with changing
-teams/managers/supervisor, etc.
+context.  These contexts will of course change as teams/managers/supervisor,
+etc. change.
 
 # The "@@some day/maybe@@" list
 
 You don't want to lose your million-dollar idea of making a "jumping to
-conclusions" mat that lets people jump to conclusions, but since this is a
-project you want to realise when you have more time you don't want to have it
-"pollute" your @@next actions@@ lists or your list of @@projects@@ either.
-(Remember that the @@next actions@@ only contains the things that should be
-done as soon as possible and that your @@projects@@ list will be reviewed
-regularly to make sure that all projects have at least one next action.)
+conclusions" mat, but since this is a project you want to realise when you have
+more time, you don't want to have it "pollute" your @@next actions@@ lists or
+your list of @@projects@@ either.  (Remember that the @@next actions@@ only
+contains the things that should be done as soon as possible and that your
+@@projects@@ list will be reviewed regularly to make sure that all projects have
+at least one next action.)
 
 This is where the @@some day/maybe@@ list comes it.  This list simply contains
 ideas and projects you *might* want to realise at some time in the future. This
 is where both @@"replace ugly painting in bed room"@@ and @@"start a cult"@@
 should go.  (Assuming--of course--that you don't want to do either of those
-things right now.)
+things *right now*.)
 
 # Calendar
 
-![calendar!](images/calendar.png)
+![calendar!](images/calendar.png)\
 
 The ~~calendar~~ is for things you *have* to do on a certain date or at a
 certain time, and *nothing else*!  That's right; no putting @@"install
-Bonzibudddy"@@ on your calendar for next Wednesday if you just *now* think you
+Bonzibudddy"@@ on your calendar for next Wednesday if you just *think* you
 *want* to have it done then.
 
-Why?  By only having items which really are time and date sensitive on your
-~~calendar~~ it will be more useful since it will actually tell you the things
+But... why‽
+
+By only having items which really *are* time and date sensitive on your
+~~calendar~~ it will be more useful, since it will actually tell you the things
 you *have* to do a certain day without being "diluted" with other items.  The
 thing you *want* to do will be on your @@next actions@@ list any way, so you
-will be reminded about it and have the chance to do it anyway if you have the
-time.
+will be reminded about it and have the chance to do it anyway.
 
 # Weekly review
 
 Allen calls the weekly review a "critical factor for success" and he is not
 joking.  If you start using the GTD framework and you are not a robot, things
-will start to slip. You will complete the next action of a project and forget
-to add a new, next action for that project. You will forget to remove next
-actions that you--if you really thought about it--know that you won't do in the
-near future because more important things have shown up.
+will start to slip. You will complete the next action of a project and forget to
+add a new "next action" for that project. You will forget to remove next actions
+that you--if you really thought about it--know that you won't do in the near
+future because more important things have shown up, and so on.
 
 *The weekly review* should be done--you guessed it--once per week. It will take
 a while, so you should ideally set off some time in advance, for example Friday
 or Sunday afternoon. When doing the weekly review you should at least do the
 following:
 
-* Make sure each project has at least one next action.
-* Make sure that each action on your @@next actions@@ list is *actually*
-  something you want to do if you have the time. If not, move it (and/or the
-  project it belongs to) to your @@someday/maybe@@ list.
+* Make sure each project has at least one next action.  Make sure that each
+* action on your @@next actions@@ list is *actually*
+  something you want or need to do if you have the time during the coming week.
+  If not, move it (and/or the project it belongs to) to your @@someday/maybe@@
+  list.
 * Look through your someday/maybe list and see if some projects/actions should
   be moved to the list of current projects/the @@next actions@@ list. If
-  creating a new project on your @@projects@@ list, make sure to find its next
-  physical, visible action and put it on the @@next actions@@ list.
+  creating a new project on your @@projects@@ list, make sure to figure out its
+  next physical, visible action and put it on the @@next actions@@ list as well.
 
 ## Trigger lists
 
 When doing the weekly review it can be a good idea to work through a "trigger
-list".  A trigger list is simply a list of key words to "trigger" you to
+list".  A trigger list is simply a list of key words to "trigger" your brain to
 remember any open loops you still haven't captured in your system. A trigger
 list could look like the following:
 
@@ -320,11 +324,19 @@ learn what works best for *you*.
 
 # Getting it to work
 
-To actually get your GTD system to work there are some important "rules" to
-follow.  ...
+To actually get your GTD system to work there are some important "best pratices"
+you are adviced to follow.  As you start getting comfortable with using GTD you
+can be a bit more lenient if you believe that would be better.
 
-It is important that you have **hard edges** between your lists, and between
-your @@next actions@@ lists.
+* It is important that you have **hard edges** between your lists, and between
+  your @@next actions@@ lists.  If you often find yourself wondering which
+  context a next action belongs to you might want to reconsider your contexts.
+* Your tools should be **fun to use**--but not *too* fun! If you have a slow
+  and complicated tool for managing your lists you will subconsciously resist
+  collecting small tasks, and if your tool is too fun to use you will end up
+  over-using it and spend time playing with its amazing features. Find something
+  that works for you. <!-- TODO: list of software/web pages/etc? -->
+
 
 # Tools
 
@@ -401,5 +413,4 @@ excellent [pandoc](http://johnmacfarlane.net/pandoc/) to generate XHTML.
 TODO
 * more illustrations
 * change title
-* http://wikisummaries.org/Getting_Things_Done:_The_Art_of_Stress-Free_Productivity
 -->
