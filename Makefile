@@ -10,3 +10,4 @@ all:
 	| sed ':a;N;$$!ba;s/!!\([^!]*\)!!/<span class="context">\1<\/span>/g'\
 	| sed ':a;N;$$!ba;s/~~\([^~]*\)~~/<span class="calendar">\1<\/span>/g'\
 	| pandoc -S -s --toc --template=$(TEMPLATE) -c $(CSS) -o $(TARGET)
+	xmllint --valid --noout $(TARGET)
