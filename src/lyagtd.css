@@ -76,7 +76,8 @@ div.important {
 }
 
 div.remember {
-    padding: 0.5em;
+    padding-left: 1.0em;
+    padding-right: 1.0em;
     margin-left: 1em;
     background-color: #e0ffe0;
     float: right;
