@@ -2,7 +2,10 @@
 % Erlend Hamberg
 % Sun Oct  3 21:27:14 CEST 2010
 
-<!-- @@listname@@
+<!-- vi: set et ai tw=80 :-->
+
+<!--
+     @@listname@@
      ^^action^^
      !!context!!
      ~~calendar~~
