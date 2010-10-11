@@ -136,25 +136,10 @@ things will end up.
 To summarise, when processing your @@in@@ list(s), you should follow this
 procedure:
 
-<div class="important">
-
--   If the item is NOT "actionable":
-
-    Throw it away, archive it for future reference, or put it on your
-    "some day/maybe" list.
-
--   If item IS "actionable":
-    -   Work out the next physical, visible action.
-    -   If this action will it take 2 minutes or less: Do it!
-
-    -   If this action will it take more than 2 minutes:
-        -   Delegate it and add it to your @@waiting for@@ list.
-
-            OR
-
-        -   Add it to your @@next actions@@ list of things to be done.
-
-</div>
+![The GTD work flow: open loops are collected in the @@in@@ list, processed, and
+if it's an action it's done, deferred, or delegated. If the item being processed
+require more than one action it's recorded in the @@projects@@ list as
+well.](images/workflow.png)
 
 # The "@@next actions@@" list
 
@@ -413,4 +398,5 @@ excellent [pandoc](http://johnmacfarlane.net/pandoc/) to generate XHTML.
 TODO
 * more illustrations
 * change title
+* link to svg files
 -->

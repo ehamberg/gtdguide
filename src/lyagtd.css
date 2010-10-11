@@ -55,6 +55,23 @@ img {
     margin-left: 1em;
 }
 
+div.figure {
+    text-align: center;
+    color: #444;
+}
+
+div.figure p {
+    margin-top: 0;
+}
+
+div.figure img {
+    float: none;
+    padding: 1em;
+    border: 1px solid black;
+    -moz-border-radius: 0.5em; /* FIXME: remove? */
+    border-radius: 0.5em;
+}
+
 div.topheader {
 	text-align: center;
     font-family: 'Droid Sans', arial, serif;
