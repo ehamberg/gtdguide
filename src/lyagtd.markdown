@@ -1,4 +1,4 @@
-% GTD in 15 minutes
+% GTD in 15 minutes – A Pragmatic Guide to Getting Things Done
 % Erlend Hamberg
 % Sun Oct  3 21:27:14 CEST 2010
 
@@ -393,10 +393,3 @@ Good!](http://learnyouahaskell.com)".
 The guide is written in
 [Markdown](http://daringfireball.net/projects/markdown/) and I use the
 excellent [pandoc](http://johnmacfarlane.net/pandoc/) to generate XHTML.
-
-<!--
-TODO
-* more illustrations
-* change title
-* link to svg files
--->
