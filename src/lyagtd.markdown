@@ -360,7 +360,7 @@ lecture you didn't really understand ("I will want to review these in a week
 when my subconsciousness has chewed on it for a while").
 
 Every day when you get up, you open the folder with the current date. You then
-pocket your concert tickets, decides that you *do* want to take the dog to the
+pocket your concert tickets, decide that you *do* want to take the dog to the
 dog hairdresser today, but push the lecture notes back three days since you
 don't have time right now. Having emptied the folder, you place it in the back,
 bringing tomorrow's folder to the front. At the end of each month, you open the
@@ -368,7 +368,7 @@ folder for the new month and deal with its contents--like putting items in the
 correct day folders.
 
 The tickler file thus provides a way to send yourself reminders in the
-future--"tickling" your memory. Aaaaah!
+future--*tickling* your memory. A-ha!
 
 # About this guide
 
