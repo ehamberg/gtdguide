@@ -26,12 +26,12 @@ Sound like all other run-of-the-mill to-do list systems, you say? Well in many
 ways it is, but there is more to it, and it's really simple.  Promise! So please
 read on.
 
-One of the basic assumptions of GTD is that you are dumb--or rather, that your
+One of the basic assumptions of GTD is that you are dumb--or, rather, that your
 subconsciousness is quite dumb when it comes to thinking about things you
-*should* have done.  Like knowing you need to fix your bike before next week,
-but instead of reminding you when you actually drive by the hardware store that
-has the parts you need, it implants an incessant feeling of *"I need to
-remember...  something"* in your brain.
+*should* have done.  For example knowing you need to fix your bike before next
+week, but instead of reminding you when you actually drive by the bicycle shop,
+it implants an incessant feeling of *"I need to remember...  something"* in your
+brain.
 
 A great part of the "magic" is to convert both tasks and whims into *physical*
 and *visible* **actions** as you soon will see.
@@ -42,7 +42,7 @@ to do. When your system and your trust in your system is in place, your
 subconsciousness will stop keeping track of all the things you need to do and
 stop constantly reminding you.  This reduces stress, frees up precious brain
 time to more productive thinking--maybe even save *real* time so that you have
-more time for ballet lessons, painting class and roller-blading.
+more time for ballet lessons, painting classes and roller-blading.
 
 ![lists!](images/lists.png)\
 
@@ -65,45 +65,44 @@ Their workings are described below.  In addition to the lists you will need a
 
 # The "@@in@@" list
 
-The @@in@@ list is where you capture ideas and tasks as they occur to you.
-Either by your boss telling you to bake her a carrot cake, or by you seeing a
-poster for a circus you want to see.  The barrier for adding something to your
-@@in@@ list should be as low as possible--jot it down in a notebook or press
-the right buttons on your pocket telephone.  While I have called it *the*
-@@in@@ list, It is no problem to have more than one.  Maybe a computer program
-for when you are in front of a computer and a notebook for when you loiter
-outside the mall?  The important thing is that you are able to write down
-things as they occur to you.  We want to offload work from the brain, remember?
+The @@in@@ list is where you capture ideas and tasks as they occur to you.  This
+can be your boss telling you to bake her a carrot cake, or seeing a poster for a
+circus you want to see.  The barrier for adding something to your @@in@@ list
+should be as low as possible--jot it down in a notebook or press the right
+buttons on your mobile phone.  While I have called it *the* @@in@@ list, It is
+no problem to have more than one.  Maybe a computer program for when you are in
+front of a computer and a notebook for when you loiter outside the mall?  The
+important thing is that you are able to write down things as they occur to you.
+We want to offload work from the brain, remember?
 
-When you first start to use GTD you should take an hour to write down all
-things you want to--or have to--do.  These *open loops* as Allen calls them
-include *all* things that aren't as they should be or where they should be.  Do
-you need to replace your toothbrush? Return the tea cup you borrowed from your
-aunt Trillian? Should you repaint your bed in another colour?  All these things
-should go on your @@in@@ list.
+When you first start to use GTD you should take an hour to write down all things
+you want to--or have to--do.  These so-called *open loops* include *all* things
+that aren't *as* they should be, *where* they should be, and so on.  Do you need
+to replace your toothbrush? Return the tea cup you borrowed from your aunt?
+Should you repaint your bed in another colour?  All these things should go on
+your @@in@@ list.
 
 # Processing the "@@in@@" list
 
 <div class="remember">
 
-If you have just started to use GTD and collected tonnes of items in your
-@@in@@ list during the initial "brain-emptying", this process can take a while.
-From now on the @@in@@ list will be processed continuously.
+If you have just started to use GTD and collected tonnes of items in your @@in@@
+list during the initial "brain-emptying", processing can take a while.  From now
+on the @@in@@ list will be processed continuously.
 
 </div>
 
-The items on your @@in@@ list should be processed one by one in the order they
-appear on your list.  When processing at an item in your @@in@@ list the first
-question you need to ask is **is it actionable?**--in other words, do you need
+The items on your @@in@@ list should be processed one by one *in the order they
+appear on your list*.  When processing at an item in your @@in@@ list the first
+question you need to ask is **is it *actionable*?**--in other words, do you need
 to *do* something?  If the answer is NO, you either throw it away if you no
 longer need it, keep it as reference material ("I will probably need this
 article again some day..."), add it to a "some day/maybe list" (for things like
-^^"learn Indonesian"^^), or **incubate** it.  Wait, what! Sit on it?  Yes, sort
+^^"learn Indonesian"^^), or **incubate** it.  Wait, what‽ Sit on it?  Yes, sort
 of.  If it's something that you want to remind yourself of later ("I really
 didn't understand this article, I should have a look at it again in two weeks")
-it should go into your calendar or your tickler file.  Don't know what a
-tickler file is?  Worry not, it is introduced below and its weird name
-explained.
+it should go into your calendar or your *tickler file* which will soon be
+explained. (Yes; even the weird name.)
 
 Now, if the item you're currently processing *is* actionable--in other words:
 something should be done about it--you should ask the question "*what is the
@@ -123,15 +122,18 @@ this greatly lowers the resistance to *do* the things.
 
 </div>
 
-When you have determined the next action you should consider if it takes two
-minutes or less to do it.  If it does, do it right away.  (Things like and
-^^"e-mail funny cat video to grandma"^^.)  The reason for this is simple: if
-the action takes two minutes or less, the overhead of tracking it will be very
+When you have determined the next action, you should consider if it takes less
+than two minutes to do it.  If this is the case, do it. Right away.  (Things
+like ^^"e-mail funny cat video to grandma"^^.)  The reason for this is simple:
+if the action takes two minutes or less, the overhead of tracking it will be
 large compared to how long it takes to just *do* it.  If it takes more than two
-minutes you should **delegate** it if appropriate--noting what was delegated
-and when on a @@waiting for@@ list, or add it to your own @@next actions@@
-list.  Unless your secret superpower is delegation, this is probably where most
-things will end up.
+minutes you should **delegate** it if appropriate--noting what was delegated and
+when on a @@waiting for@@ list, or add it to your own @@next actions@@ list of
+things you want to do as soon as you have the time.  Unless your secret
+superpower is delegation, the @@next actions@@ is probably where most things
+will end up.  If open loop will take more than one action to close, the overall
+goal should be noted on a @@projects@@ list which will be explained in a few
+sections.
 
 To summarise, when processing your @@in@@ list(s), you should follow this
 procedure:
@@ -143,7 +145,7 @@ well.](images/workflow.png)
 
 # The "@@next actions@@" list
 
-So what's the @@next actions@@ list?  Well, uh, a list of your next actions,
+So what's the @@next actions@@ list?  Well, uh... a list of your next actions,
 obviously.  Another name for these actions is "as-soon-as-possible actions"--it
 is simply those things from which you will pick out what to work on when you
 are not watching funny cat videos on Youtube or playing Farmville.
@@ -179,8 +181,8 @@ Contexts are "tags" you put on the items on your @@next actions@@ lists saying
 where the action can be done, or what equipment you need to perform it.  An
 action can be "tagged" with a context in several ways; the easiest is probably
 to simply have different @@next actions@@ lists--one for each context. If you
-use a new-fangled electronic list manager you can often have "smart" lists for
-each tags--giving the same result. (With so-called smartphones it's probably
+use a new-fangled electronic list manager you can often have a "smart" lists for
+each tag--yielding the same result. (With so-called smartphones it's probably
 even possible to use its location awareness to only present actions whose
 context match your current location. If so: that is amazing! We live in the
 future!)
@@ -225,7 +227,7 @@ If you have regular meetings with people, it can be beneficial to have "agenda
 contexts"--one for each person--where you note down the things you want to talk
 about during the next meeting as you think of them. For example, if you have a
 weekly meeting with Foobert, you might consider having a "!!@ Foobert Agenda!!"
-context.  These contexts will of course change as teams/managers/supervisor,
+context.  These contexts will of course change as your team/managers/supervisor,
 etc. change.
 
 # The "@@some day/maybe@@" list
@@ -242,7 +244,8 @@ This is where the @@some day/maybe@@ list comes it.  This list simply contains
 ideas and projects you *might* want to realise at some time in the future. This
 is where both @@"replace ugly painting in bed room"@@ and @@"start a cult"@@
 should go.  (Assuming--of course--that you don't want to do either of those
-things *right now*.)
+things *right now*.)  This list should be reviewed weekly along with the rest of
+the system as described in the section on the weekly review.
 
 # Calendar
 
@@ -258,17 +261,19 @@ But... why‽
 By only having items which really *are* time and date sensitive on your
 ~~calendar~~ it will be more useful, since it will actually tell you the things
 you *have* to do a certain day without being "diluted" with other items.  The
-thing you *want* to do will be on your @@next actions@@ list any way, so you
-will be reminded about it and have the chance to do it anyway.
+thing you *want* to do, but that doesn't need to be done at a certain time will
+be on your @@next actions@@ list any way, so you will be reminded about it and
+have the chance to do it anyway.
 
 # Weekly review
 
-Allen calls the weekly review a "critical factor for success" and he is not
-joking.  If you start using the GTD framework and you are not a robot, things
-will start to slip. You will complete the next action of a project and forget to
-add a new "next action" for that project. You will forget to remove next actions
-that you--if you really thought about it--know that you won't do in the near
-future because more important things have shown up, and so on.
+David Allen's book on "GTD" calls the weekly review a "critical factor for
+success" and he is not joking.  If you start using the GTD framework and you
+aren't a robot, things will start to slip. You will complete the next action of
+a project and forget to add a new "next action" for that project. You will
+forget to remove next actions that you--if you really thought about it--know
+that you won't do in the near future because more important things have shown
+up, and so on.
 
 *The weekly review* should be done--you guessed it--once per week. It will take
 a while, so you should ideally set off some time in advance, for example Friday
@@ -309,9 +314,9 @@ learn what works best for *you*.
 
 # Getting it to work
 
-To actually get your GTD system to work there are some important "best pratices"
-you are adviced to follow.  As you start getting comfortable with using GTD you
-can be a bit more lenient if you believe that would be better.
+To actually get your GTD system to work there are some important "best practices"
+you are advised to follow.  As you start getting comfortable with using GTD you
+can be a bit more lenient if you believe that it would be better.
 
 * It is important that you have **hard edges** between your lists, and between
   your @@next actions@@ lists.  If you often find yourself wondering which
