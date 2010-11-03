@@ -41,8 +41,8 @@ system for keeping track of what you need to do, should do, or should *consider*
 to do. When your system and your trust in your system is in place, your
 subconsciousness will stop keeping track of all the things you need to do and
 stop constantly reminding you.  This reduces stress, frees up precious brain
-time to more productive thinking--maybe even save *real* time so that you have
-more time for ballet lessons, painting classes and roller-blading.
+time to more productive thinking--maybe it even saves *real* time so that you
+have more time for ballet lessons, painting classes and roller-blading.
 
 ![lists!](images/lists.png)\
 
