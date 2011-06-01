@@ -131,9 +131,9 @@ minutes you should **delegate** it if appropriate--noting what was delegated and
 when on a @@waiting for@@ list, or add it to your own @@next actions@@ list of
 things you want to do as soon as you have the time.  Unless your secret
 superpower is delegation, the @@next actions@@ is probably where most things
-will end up.  If open loop will take more than one action to close, the overall
-goal should be noted on a @@projects@@ list which will be explained in a few
-sections.
+will end up.  If the open loop will take more than one action to close, the
+overall goal should be noted on a @@projects@@ list which will be explained in a
+few sections.
 
 To summarise, when processing your @@in@@ list(s), you should follow this
 procedure:
