@@ -152,13 +152,12 @@ are not watching funny cat videos on Youtube or playing Farmville.
 
 # The "@@waiting for@@" list
 
-When you delegate work to others, send an e-mail you expect or need to be
-replied to, order something, or have a task that is "blocked" because you are
-waiting for someone else to do something, it should be written down on your
-@@waiting for@@ list.  These items should always be stamped with the current
-date so that you'll be able to e-mail your co-worker Marvin and say "I'm still
-waiting for the WTF report you said you'd finish within a month.  That was 32
-days ago!".
+When you delegate work to others, send an e-mail you expect (or need) a reply
+to, order something, or have a task that is "blocked" because you are waiting
+for someone else to do something, it should be written down on your @@waiting
+for@@ list.  These items should always be marked with the current date so that
+you'll be able to e-mail your co-worker Marvin and say "I'm still waiting for
+the WTF report you said you'd finish within a month.  That was 32 days ago!".
 
 # Projects
 
@@ -166,7 +165,7 @@ If your still with me you might have worried that a ^^"research artificial
 intelligence textbooks"^^ action on your @@next actions@@ list is all that is
 written down about your plan to take over the world.  Wouldn't it be easy to
 lose track once that action is done and erased from your list? Yes, it kinda
-would...  That's where the @@projects@@ list comes in.
+would.  That's where the @@projects@@ list comes in.
 
 GTD's definition of a project is very broad.  It defines any objective that
 requires more than one action as a project.  These projects should go on your
@@ -245,7 +244,7 @@ ideas and projects you *might* want to realise at some time in the future. This
 is where both @@"replace ugly painting in bed room"@@ and @@"start a cult"@@
 should go.  (Assuming--of course--that you don't want to do either of those
 things *right now*.)  This list should be reviewed weekly along with the rest of
-the system as described in the section on the weekly review.
+the system as described in the section on the weekly review below.
 
 # Calendar
 
