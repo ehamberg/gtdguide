@@ -69,7 +69,6 @@ div.figure img {
     padding: 5px;
     margin: auto;
     border: 1px solid black;
-    -moz-border-radius: 0.5em; /* FIXME: remove? */
     border-radius: 0.5em;
 }
 
@@ -89,7 +88,6 @@ div.important {
     margin-left: 10%;
     margin-right: 10%;
     border: 1px solid black;
-    -moz-border-radius: 0.5em; /* FIXME: remove? */
     border-radius: 0.5em;
 }
 
@@ -101,7 +99,6 @@ div.remember {
     float: right;
     width: 30%;
     border: 1px solid black;
-    -moz-border-radius: 0.5em; /* FIXME: remove? */
     border-radius: 0.5em;
 }
 
@@ -112,7 +109,6 @@ div.example {
     background-color: #e0ffe0;
     width: 80%;
     border: 1px solid black;
-    -moz-border-radius: 0.5em; /* FIXME: remove? */
     border-radius: 0.5em;
 }
 
@@ -141,7 +137,6 @@ div.toc {
     width: 300px;
     padding: 0.5em 1em;
     background-color: #e0e0ff;
-    -moz-border-radius: 0.5em; /* FIXME: remove? */
     border-radius: 0.5em;
 }
 
