@@ -161,7 +161,7 @@ the WTF report you said you'd finish within a month.  That was 32 days ago!".
 
 # Projects
 
-If your still with me you might have worried that a ^^"research artificial
+If you're still with me you might have worried that a ^^"research artificial
 intelligence textbooks"^^ action on your @@next actions@@ list is all that is
 written down about your plan to take over the world.  Wouldn't it be easy to
 lose track once that action is done and erased from your list? Yes, it kinda
