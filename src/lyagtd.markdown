@@ -334,7 +334,7 @@ directly part of the GTD method--may be beneficial to use together with GTD.
 
 ## Read/review folder
 
-You will probably have quite a few ^^"read [some document]"^^ actions on their
+You will probably have quite a few ^^"read [some document]"^^ actions on your
 @@next actions@@ list.  A read/review folder is simply a physical folder you
 carry around, containing the papers, documents, and anything else you want to
 read.  The idea is to have this material available whenever you have a few
