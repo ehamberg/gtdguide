@@ -48,7 +48,7 @@ $if(title)$
 $endif$
 <div class="header">
 <div class="headerimg">
-	<img src="images/slinky.png" alt="welcome!" />
+  <img src="images/slinky.png" alt="welcome!" />
 </div>
 <div class="toc">
 <h2>Table of contents</h2>
