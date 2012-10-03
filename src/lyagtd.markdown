@@ -112,7 +112,7 @@ and Camille and remind them to bake their cakes"^^.
 
 <div class="important">
 
-This very thing--that next actions should be the next **physical, visible**
+This very thing--that *next* actions should be the next **physical, visible**
 action to move the project closer to its goal--is perhaps *the* most important
 "rule" in GTD.  By using a few extra seconds to come up with what *physically*
 needs to be done, you make sure that your "next action" lists will only contain
