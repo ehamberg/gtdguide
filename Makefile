@@ -1,7 +1,7 @@
 TEMPLATE=src/lyagtd.template
 CSS=src/lyagtd.css
 SRC=src/lyagtd.markdown
-TARGET=lyagtd.xhtml
+TARGET=lyagtd.html
 
 all:
 	cat $(SRC)\
@@ -10,4 +10,3 @@ all:
 	| sed ':a;N;$$!ba;s/!!\([^!]*\)!!/<span class="context">\1<\/span>/g'\
 	| sed ':a;N;$$!ba;s/~~\([^~]*\)~~/<span class="calendar">\1<\/span>/g'\
 	| pandoc -S -s --toc --template=$(TEMPLATE) -c $(CSS) -o $(TARGET)
-	xmllint --valid --noout $(TARGET)

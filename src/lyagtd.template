@@ -29,6 +29,15 @@ $endif$
     font-family: 'Droid Serif', serif;
   }
   </style>
+  <script type="text/javascript">
+    window.___gcfg = {lang: 'en-GB'};
+
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+  </script>
 </head>
 <body>
 $for(include-before)$
@@ -52,5 +61,25 @@ $body$
 $for(include-after)$
 $include-after$
 $endfor$
+
+<hr style='border: 1px solid black;' />
+
+<a href="http://flattr.com/thing/123775/GTD-in-15-Minutes" target="_blank">
+<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a>
+
+<g:plusone size="small" annotation="inline"></g:plusone>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'ehamberg';
+    var disqus_identifier = 'gtdguide';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </body>
 </html>
