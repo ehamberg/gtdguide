@@ -283,7 +283,8 @@ following:
   action on your @@next actions@@ list is *actually*
   something you want or need to do if you have the time during the coming week.
   If not, move it (and/or the project it belongs to) to your @@someday/maybe@@
-  list.
+  list or--if you don't think you will ever do it--remove it completely. (Be
+  honest with yourself.)
 * Look through your someday/maybe list and see if some projects/actions should
   be moved to the list of current projects/the @@next actions@@ list. If
   creating a new project on your @@projects@@ list, make sure to figure out its
