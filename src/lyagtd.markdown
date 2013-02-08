@@ -359,9 +359,9 @@ calculator now---just trust me on the number 43.
 
 So what are these folders used for? The idea is that you can place physical
 items you will need on a specific day (tickets for the concert), reminders of
-things you should do on a specific date (remember, the calendar is only for
-things that *have* to be done on a specific date/time), or the notes from the
-lecture you didn't really understand ("I will want to review these in a week
+things you possibly want do on a specific date (remember, the calendar is only
+for things that *have* to be done on a specific date/time), or the notes from
+the lecture you didn't really understand ("I will want to review these in a week
 when my subconsciousness has chewed on it for a while").
 
 Every day when you get up, you open the folder with the current date. You then
