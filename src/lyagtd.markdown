@@ -13,12 +13,12 @@
 
 # What is "GTD"?
 
-GTD--or "Getting things done"--is a framework for organising and tracking your
+GTD---or "Getting things done"---is a framework for organising and tracking your
 tasks and projects.  Its aim is a bit higher than just "getting things done",
 though.  (It should have been called "Getting things done in a much better way
 than just letting things happen, which often turns out not to be very cool at
 all".)  Its aim is to make you have 100% trust in a system for collecting
-tasks, ideas, and projects--both vague things like ^^"invent greatest thing
+tasks, ideas, and projects---both vague things like ^^"invent greatest thing
 ever"^^ and concrete things like ^^"call Ada 25 August to discuss cheesecake
 recipe"^^.  *Everything*!
 
@@ -26,7 +26,7 @@ Sound like all other run-of-the-mill to-do list systems, you say? Well in many
 ways it is, but there is more to it, and it's really simple.  Promise! So please
 read on.
 
-One of the basic assumptions of GTD is that you are dumb--or, rather, that your
+One of the basic assumptions of GTD is that you are dumb---or, rather, that your
 subconsciousness is quite dumb when it comes to thinking about things you
 *should* have done.  For example knowing you need to fix your bike before next
 week, but instead of reminding you when you actually drive by the bicycle shop,
@@ -36,12 +36,12 @@ brain.
 A great part of the "magic" is to convert both tasks and whims into *physical*
 and *visible* **actions** as you soon will see.
 
-What GTD gives you--when understood and implemented properly--is a foolproof
+What GTD gives you---when understood and implemented properly---is a foolproof
 system for keeping track of what you need to do, should do, or should *consider*
 to do. When your system and your trust in your system is in place, your
 subconsciousness will stop keeping track of all the things you need to do and
 stop constantly reminding you.  This reduces stress, frees up precious brain
-time to more productive thinking--maybe it even saves *real* time so that you
+time to more productive thinking---maybe it even saves *real* time so that you
 have more time for ballet lessons, painting classes, and roller-blading.
 
 ![lists!](images/lists.png)\
@@ -68,7 +68,7 @@ Their workings are described below.  In addition to the lists you will need a
 The @@in@@ list is where you capture ideas and tasks as they occur to you.  This
 can be your boss telling you to bake her a carrot cake, or seeing a poster for a
 circus you want to see.  The barrier for adding something to your @@in@@ list
-should be as low as possible--jot it down in a notebook or press the right
+should be as low as possible---jot it down in a notebook or press the right
 buttons on your mobile phone.  While I have called it *the* @@in@@ list, It is
 no problem to have more than one.  Maybe a computer program for when you are in
 front of a computer and a notebook for when you loiter outside the mall?  The
@@ -76,7 +76,7 @@ important thing is that you are able to write down things as they occur to you.
 We want to offload work from the brain, remember?
 
 When you first start to use GTD you should take an hour to write down all things
-you want to--or have to--do.  These so-called *open loops* include *all* things
+you want to---or have to---do.  These so-called *open loops* include *all* things
 that aren't *as* they should be, *where* they should be, and so on.  Do you need
 to replace your toothbrush? Return the tea cup you borrowed from your aunt?
 Should you repaint your bed in another colour?  All these things should go on
@@ -94,7 +94,7 @@ on the @@in@@ list will be processed continuously.
 
 The items on your @@in@@ list should be processed one by one *in the order they
 appear on your list*.  When processing at an item in your @@in@@ list the first
-question you need to ask is **is it *actionable*?**--in other words, do you need
+question you need to ask is **is it *actionable*?**---in other words, do you need
 to *do* something?  If the answer is NO, you either throw it away if you no
 longer need it, keep it as reference material ("I will probably need this
 article again some day..."), add it to a "some day/maybe list" (for things like
@@ -104,16 +104,16 @@ didn't understand this article, I should have a look at it again in two weeks")
 it should go into your calendar or your *tickler file* which will soon be
 explained. (Yes; even the weird name.)
 
-Now, if the item you're currently processing *is* actionable--in other words:
-something should be done about it--you should ask the question "*what is the
+Now, if the item you're currently processing *is* actionable---in other words:
+something should be done about it---you should ask the question "*what is the
 next action?*"  **The next action needs to be a *physical* and *visible*
 action**.  In other words, not @@"plan cake lottery"@@, but ^^"e-mail Arthur
 and Camille and remind them to bake their cakes"^^.
 
 <div class="important">
 
-This very thing--that a *next action* should be the next **physical, visible**
-action to move the project closer to its goal--is perhaps *the* most important
+This very thing---that a *next action* should be the next **physical, visible**
+action to move the project closer to its goal---is perhaps *the* most important
 "rule" in GTD.  By using a few extra seconds to come up with what *physically*
 needs to be done, you make sure that your "next action" lists will only contain
 the things you can choose to do at any moment.  The "pre-processing" has already
@@ -127,7 +127,7 @@ than two minutes to do it.  If this is the case, do it. Right away.  (Things
 like ^^"e-mail funny cat video to grandma"^^.)  The reason for this is simple:
 if the action takes two minutes or less, the overhead of tracking it will be
 large compared to how long it takes to just *do* it.  If it takes more than two
-minutes you should **delegate** it if appropriate--noting what was delegated and
+minutes you should **delegate** it if appropriate---noting what was delegated and
 when on a @@waiting for@@ list, or add it to your own @@next actions@@ list of
 things you want to do as soon as you have the time.  Unless your secret
 superpower is delegation, @@next actions@@ is probably where most things will
@@ -146,7 +146,7 @@ well.](images/workflow.png)
 # The "@@next actions@@" list
 
 So what's the @@next actions@@ list?  Well, uh... a list of your next actions,
-obviously.  Another name for these actions is "as-soon-as-possible actions"--it
+obviously.  Another name for these actions is "as-soon-as-possible actions"---it
 is simply those things from which you will pick out what to work on when you
 are not watching funny cat videos on Youtube or playing Farmville.
 
@@ -169,8 +169,8 @@ would.  That's where the @@projects@@ list comes in.
 
 GTD's definition of a project is very broad.  It defines any objective that
 requires more than one action as a project.  These projects should go on your
-@@projects@@ list.  This list is simply a list of project titles and--if you
-like--descriptions and intended outcomes of the projects.
+@@projects@@ list.  This list is simply a list of project titles and---if you
+like---descriptions and intended outcomes of the projects.
 
 # Contexts
 
@@ -179,9 +179,9 @@ like--descriptions and intended outcomes of the projects.
 Contexts are "tags" you put on the items on your @@next actions@@ lists saying
 where the action can be done, or what equipment you need to perform it.  An
 action can be "tagged" with a context in several ways; the easiest is probably
-to simply have different @@next actions@@ lists--one for each context. If you
+to simply have different @@next actions@@ lists---one for each context. If you
 use a new-fangled electronic list manager you can often have a "smart" lists for
-each tag--yielding the same result. (With so-called smartphones it's probably
+each tag---yielding the same result. (With so-called smartphones it's probably
 even possible to use its location awareness to only present actions whose
 context match your current location. If so: that is amazing! We live in the
 future!)
@@ -214,8 +214,8 @@ Examples of contexts are !!@ home!!, !!@ computer!!, and !!@ office!!.
 </div>
 
 How many contexts you need depend on how many next actions you will have and
-how your work day looks like.  The important thing is to be able to assess--at
-a glance--what your possible actions are depending on where you physically are
+how your work day looks like.  The important thing is to be able to assess---at
+a glance---what your possible actions are depending on where you physically are
 and what equipment you have available.  It can also be a good idea to make an
 "everywhere" context for things you can do no matter where you are (@@"Call
 mom and get goulash recipe"@@).
@@ -223,7 +223,7 @@ mom and get goulash recipe"@@).
 ## Agenda contexts
 
 If you have regular meetings with people, it can be beneficial to have "agenda
-contexts"--one for each person--where you note down the things you want to talk
+contexts"---one for each person---where you note down the things you want to talk
 about during the next meeting as you think of them. For example, if you have a
 weekly meeting with Foobert, you might consider having a "!!@ Foobert Agenda!!"
 context.  These contexts will of course change as your team/managers/supervisor,
@@ -242,7 +242,7 @@ at least one next action.)
 This is where the @@some day/maybe@@ list comes it.  This list simply contains
 ideas and projects you *might* want to realise at some time in the future. This
 is where both @@"replace ugly painting in bed room"@@ and @@"start a cult"@@
-should go.  (Assuming--of course--that you don't want to do either of those
+should go.  (Assuming---of course---that you don't want to do either of those
 things *right now*.)  This list should be reviewed weekly along with the rest of
 the system as described in the section on the weekly review below.
 
@@ -270,11 +270,11 @@ David Allen's book on "GTD" calls the weekly review a "critical factor for
 success" and he is not joking.  If you start using the GTD framework and you
 aren't a robot, things will start to slip. You will complete the next action of
 a project and forget to add a new "next action" for that project. You will
-forget to remove next actions that you--if you really thought about it--know
+forget to remove next actions that you---if you really thought about it---know
 that you won't do in the near future because more important things have shown
 up, and so on.
 
-*The weekly review* should be done--you guessed it--once per week. It will take
+*The weekly review* should be done---you guessed it---once per week. It will take
 a while, so you should ideally set off some time in advance, for example Friday
 or Sunday afternoon. When doing the weekly review you should at least do the
 following:
@@ -283,7 +283,7 @@ following:
   action on your @@next actions@@ list is *actually*
   something you want or need to do if you have the time during the coming week.
   If not, move it (and/or the project it belongs to) to your @@someday/maybe@@
-  list or--if you don't think you will ever do it--remove it completely. (Be
+  list or---if you don't think you will ever do it---remove it completely. (Be
   honest with yourself.)
 * Look through your someday/maybe list and see if some projects/actions should
   be moved to the list of current projects/the @@next actions@@ list. If
@@ -321,7 +321,7 @@ can be a bit more lenient if you believe that it would be better.
 * It is important that you have **hard edges** between your lists, and between
   your @@next actions@@ lists.  If you often find yourself wondering which
   context a next action belongs to you might want to reconsider your contexts.
-* Your tools should be **fun to use**--but not *too* fun! If you have a slow
+* Your tools should be **fun to use**---but not *too* fun! If you have a slow
   and complicated tool for managing your lists you will subconsciously resist
   collecting small tasks, and if your tool is too fun to use you will end up
   over-using it and spend time playing with its amazing features. Find something
@@ -330,8 +330,8 @@ can be a bit more lenient if you believe that it would be better.
 
 # Tools
 
-The read/review folder and tickler file are two tools which--while they aren't
-directly part of the GTD method--may be beneficial to use together with GTD.
+The read/review folder and tickler file are two tools which---while they aren't
+directly part of the GTD method---may be beneficial to use together with GTD.
 
 ## Read/review folder
 
@@ -355,7 +355,7 @@ that show up during the day.
 This strangely-named concept is simply a collection of 43 file folders. Why 43?
 Because that means that you can have one for each of the **31** days of a month
 plus one for each of the **12** months of the year.  If you're reaching for your
-calculator now--just trust me on the number 43.
+calculator now---just trust me on the number 43.
 
 So what are these folders used for? The idea is that you can place physical
 items you will need on a specific day (tickets for the concert), reminders of
@@ -369,11 +369,11 @@ pocket your concert tickets, decide that you *do* want to take the dog to the
 dog hairdresser today, but push the lecture notes back three days since you
 don't have time right now. Having emptied the folder, you place it in the back,
 bringing tomorrow's folder to the front. At the end of each month, you open the
-folder for the new month and deal with its contents--like putting items in the
+folder for the new month and deal with its contents---like putting items in the
 correct day folders.
 
 The tickler file thus provides a way to send yourself reminders in the
-future--*tickling* your memory. A-ha!
+future---*tickling* your memory. A-ha!
 
 # About this guide
 
