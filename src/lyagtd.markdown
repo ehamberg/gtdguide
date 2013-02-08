@@ -231,7 +231,7 @@ etc. change.
 
 # The "@@some day/maybe@@" list
 
-You don't want to lose your million-dollar idea of making a "jumping to
+You don't want to lose your million-dollar idea of making a "jump to
 conclusions" mat, but since this is a project you want to realise when you have
 more time, you don't want to have it "pollute" your @@next actions@@ lists or
 your list of @@projects@@ either.  (Remember that the @@next actions@@ only
