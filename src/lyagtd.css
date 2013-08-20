@@ -159,3 +159,15 @@ div.headerimg img {
 div.header {
     overflow: auto;
 }
+
+blockquote {
+    background-color: #e0e0e0;
+    border-radius: 0.5em;
+    width: 70%;
+    margin: auto;
+}
+
+blockquote p {
+    font-style: italic;
+    padding: 0.5em 1em;
+}
