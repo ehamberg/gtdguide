@@ -33,6 +33,11 @@ week, but instead of reminding you when you actually drive by the bicycle shop,
 it implants an incessant feeling of *"I need to remember...  something"* in your
 brain.
 
+[Jessica Kerr](http://jessitron.com/) put it perfectly:
+
+> Pretend your brain is a white board. Is it covered with to-do lists and "DO
+> NOT ERASE"? Is there space for drawing and combining ideas?
+
 A great part of the "magic" is to convert both tasks and whims into *physical*
 and *visible* **actions** as you soon will see.
 
