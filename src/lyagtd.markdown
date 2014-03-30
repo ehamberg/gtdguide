@@ -283,9 +283,9 @@ that you won't do in the near future because more important things have shown
 up, and so on.
 
 *The weekly review* should be done---you guessed it---once per week. It will take
-a while, so you should ideally set off some time in advance, for example Friday
-or Sunday afternoon. When doing the weekly review you should at least do the
-following:
+a while, so you should ideally set off some time (probably at least 30 minutes)
+in advance, for example Friday or Sunday afternoons. When doing the weekly
+review you should at least do the following:
 
 * Make sure each project has at least one next action.  Make sure that each
   action on your @@next actions@@ list is *actually*
