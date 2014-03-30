@@ -269,8 +269,8 @@ By only having items which really *are* time and date sensitive on your
 ~~calendar~~ it will be more useful, since it will actually tell you the things
 you *have* to do a certain day without being "diluted" with other items.  The
 thing you *want* to do, but that doesn't need to be done at a certain time will
-be on your @@next actions@@ list any way, so you will be reminded about it and
-have the chance to do it anyway.
+be on your @@next actions@@ list anyway, so you will be reminded about it and
+have the chance to do it.
 
 # Weekly review
 
