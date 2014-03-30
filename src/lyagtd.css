@@ -55,9 +55,28 @@ img {
     margin-left: 1em;
 }
 
+div.fullfigure {
+    text-align: center;
+    color: #444;
+    width: 100%;
+}
+
+div.fullfigure p {
+    margin-top: 0;
+}
+
+div.fullfigure img {
+    float: none;
+    padding: 5px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 0.5em;
+}
+
 div.figure {
     text-align: center;
     color: #444;
+    width: 230px;
 }
 
 div.figure p {
