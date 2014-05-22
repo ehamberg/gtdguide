@@ -393,8 +393,8 @@ assess the importance of different aspects of GTD differently.
 If you want a complete overview of GTD you would be wise to read
 David Allen's book which formalised the method he developed:
 **"Getting Things Done: The Art of Stress-Free Productivity"**
-([Amazon](http://www.amazon.com/gp/product/0142000280?ie=UTF8&tag=erlehamb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0142000280)![image](http://www.assoc-amazon.com/e/ir?t=erlehamb-20&l=as2&o=1&a=0142000280),
-[Kindle Store](http://www.amazon.com/gp/product/B000WH7PKY?ie=UTF8&tag=erlehamb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000WH7PKY)![image](http://www.assoc-amazon.com/e/ir?t=erlehamb-20&l=as2&o=1&a=B000WH7PKY),
+([Amazon](http://www.amazon.com/gp/product/0142000280?ie=UTF8&tag=erlehamb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0142000280)![image](https://www.assoc-amazon.com/e/ir?t=erlehamb-20&l=as2&o=1&a=0142000280),
+[Kindle Store](http://www.amazon.com/gp/product/B000WH7PKY?ie=UTF8&tag=erlehamb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000WH7PKY)![image](https://www.assoc-amazon.com/e/ir?t=erlehamb-20&l=as2&o=1&a=B000WH7PKY),
 [Bookdepository](http://www.bookdepository.com/book/9780142000281/Getting-Things-Done?a_aid=ehamberg),
 [Google Books](http://books.google.com/books?id=LAx_PwAACAAJ&dq=getting+things+done),
 [Wikipedia](http://en.wikipedia.org/wiki/Getting_Things_Done)).
