@@ -143,7 +143,7 @@ few sections.
 To summarise, when processing your @@in@@ list(s), you should follow this
 procedure:
 
-![The GTD work flow: open loops are collected in the @@in@@ list, processed, and
+![The GTD workflow: open loops are collected in the @@in@@ list, processed, and
 if it's an action it's done, deferred, or delegated. If the item being processed
 require more than one action it's recorded in the @@projects@@ list as
 well.](images/workflow.png)
