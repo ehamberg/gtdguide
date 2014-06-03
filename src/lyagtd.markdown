@@ -195,10 +195,10 @@ It is common to prefix contexts with an '@' which makes sense when the context
 is a location, but should just be thought of as a notation in other cases.
 Examples of contexts are !!@ home!!, !!@ computer!!, and !!@ office!!.
 
+<div class="row">
+<div class="col-md-10 col-md-offset-1 col-xs-12">
 ### Examples of actions and their contexts
-
-<div class="example">
-<table>
+<table class="table table-bordered">
 <tr>
 <th>Action</th>
 <th>Context</th>
@@ -216,6 +216,7 @@ Examples of contexts are !!@ home!!, !!@ computer!!, and !!@ office!!.
 <td>!!@ everywhere!!</td>
 </tr>
 </table>
+</div>
 </div>
 
 How many contexts you need depend on how many next actions you will have and
