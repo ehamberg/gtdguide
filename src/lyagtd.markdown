@@ -44,7 +44,7 @@ stop constantly reminding you.  This reduces stress, frees up precious brain
 time to more productive thinking--maybe it even saves *real* time so that you
 have more time for ballet lessons, painting classes, and roller-blading.
 
-![lists!](images/lists.png)\
+![lists!](images/lists.svg)\
 
 Awesome! So how does it actually work? It works by using special yoga techniques
 and daily mental exercises.  No, haha! Just kidding.  It works by simply
@@ -138,10 +138,15 @@ few sections.
 To summarise, when processing your @@in@@ list(s), you should follow this
 procedure:
 
-![The GTD work flow: open loops are collected in the @@in@@ list, processed, and
-if it's an action it's done, deferred, or delegated. If the item being processed
-require more than one action it's recorded in the @@projects@@ list as
-well.](images/workflow.png)
+<div class="fullwidth">
+  <img alt="workflow" src="images/workflow.svg">
+  <p class="caption">
+  The GTD work flow: open loops are collected in the <span class="listname">in
+  </span> list, processed, and if it's an action it's done, deferred, or
+  delegated. If the item being processed require more than one action it's
+  recorded in the <span class="listname">projects</span> list as well.
+  </p>
+</div>
 
 # The "@@next actions@@" list
 
@@ -174,7 +179,7 @@ like--descriptions and intended outcomes of the projects.
 
 # Contexts
 
-![computer!](images/computer.png)\
+![computer!](images/computer.svg)\
 
 Contexts are "tags" you put on the items on your @@next actions@@ lists saying
 where the action can be done, or what equipment you need to perform it.  An
@@ -248,7 +253,7 @@ the system as described in the section on the weekly review below.
 
 # Calendar
 
-![calendar!](images/calendar.png)\
+![calendar!](images/calendar.svg)\
 
 The ~~calendar~~ is for things you *have* to do on a certain date or at a
 certain time, and *nothing else*!  That's right; no putting @@"install
@@ -349,7 +354,7 @@ that show up during the day.
 
 ## Tickler file
 
-![tickle!](images/tickle.png)\
+![Tickle!](images/tickle.svg)\
 
 This strangely-named concept is simply a collection of 43 file folders. Why 43?
 Because that means that you can have one for each of the **31** days of a month
