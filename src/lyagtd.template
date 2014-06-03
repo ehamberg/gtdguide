@@ -66,8 +66,6 @@ $endfor$
   <div class="row">
     <div class="col-md-8 col-md-offset-2 col-xs-12">
       <hr>
-      <a href="http://flattr.com/thing/123775/GTD-in-15-Minutes" target="_blank">
-      <img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this"></a>
       <g:plusone size="small" annotation="inline"></g:plusone>
     </div>
   </div>
