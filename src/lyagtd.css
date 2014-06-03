@@ -1,182 +1,45 @@
-/* vim: set ts=4 sw=4 et tw=80 ai: */
-html {
-	background-color: white;
-	color: #002b3d;
-	font-size: 0.90em;
-	line-height: 1.5em;
-}
-
-body {
-	margin: auto;
-	padding: 0;
-	width: 780px;
-	text-align: justify;
-}
-
-table {
-    width: 100%;
-}
-
-th {
-    padding-bottom: 0.5em;
-}
-
-td {
-    padding: 0 0.3em 0 1em;
-}
-
-a {
-    color: #002b3d;
-    text-decoration: underline;
-}
-
-
-h1, h2, h3, h4, h5, h6 {
-    color: #002b3d;
-    line-height: 1.2em;
-    clear: both;
+h1.mainTitle {
+  text-align: center;
+  margin-bottom: 1em;
 }
 
 h1 {
-    font-size: 1.8em;
-    border-bottom: 2px solid #002b3d;
-    margin-top: 1.5em;
-    letter-spacing: 0.025em;
-    text-transform: uppercase;
-    text-shadow: 2px 2px 2px #bbb;
-}
-
-h1 a {
-    text-decoration: none;
+  text-align: start;
 }
 
 img {
-    float: right;
-    margin-left: 1em;
+  max-width: 100%;
+  height: auto;
+  float: right;
 }
 
-div.fullfigure {
-    text-align: center;
-    color: #444;
-    width: 100%;
+div.fullwidth img {
+  float: none;
 }
 
-div.fullfigure p {
-    margin-top: 0;
-}
-
-div.fullfigure img {
-    float: none;
-    padding: 5px;
-    margin: auto;
-    border: 1px solid black;
-    border-radius: 0.5em;
-}
-
-div.figure {
-    text-align: center;
-    color: #444;
-    width: 230px;
-}
-
-div.figure p {
-    margin-top: 0;
-}
-
-div.figure img {
-    float: none;
-    padding: 5px;
-    margin: auto;
-    border: 1px solid black;
-    border-radius: 0.5em;
-}
-
-div.topheader {
-	text-align: center;
-    font-family: 'Droid Sans', arial, serif;
-    font-weight: bold;
-    font-size: 3.2em;
-    text-shadow: 4px 4px 4px #bbb;
-	line-height: 1.5em;
-    margin-bottom: 1em;
-}
-
-div.important {
-    padding: 0.5em;
-    background-color: #ffefef;
-    margin-left: 10%;
-    margin-right: 10%;
-    border: 1px solid black;
-    border-radius: 0.5em;
-}
-
-div.remember {
-    padding-left: 1.0em;
-    padding-right: 1.0em;
-    margin-left: 1em;
-    background-color: #e0ffe0;
-    float: right;
-    width: 30%;
-    border: 1px solid black;
-    border-radius: 0.5em;
-}
-
-div.example {
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0.5em;
-    background-color: #e0ffe0;
-    width: 80%;
-    border: 1px solid black;
-    border-radius: 0.5em;
+p.caption {
+  font-style: italic;
+  text-align: center;
 }
 
 span.calendar {
-	background-color: #ffd0d0;
-    padding: 0 0.2em 0 0.2em;
+  background-color: #ffd0d0;
+  padding: 0 0.2em 0 0.2em;
 }
 
 span.listname {
-	background-color: #ffd0ff;
-    padding: 0 0.2em 0 0.2em;
+  background-color: #ffd0ff;
+  padding: 0 0.2em 0 0.2em;
 }
 
 span.context {
-	background-color: #d0ffd0;
-    padding: 0 0.2em 0 0.2em;
+  background-color: #d0ffd0;
+  padding: 0 0.2em 0 0.2em;
 }
 
 span.action {
-    padding: 0 0.2em 0 0.2em;
-	background-color: #d0d0ff;
-}
-
-div.toc {
-    float: left;
-    width: 300px;
-    padding: 0.5em 1em;
-    background-color: #e0e0ff;
-    border-radius: 0.5em;
-}
-
-div.toc h2 {
-    text-align: center;
-}
-
-div.headerimg {
-    float: right;
-    width: 440px;
-}
-
-div.headerimg img {
-    float: none;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-div.header {
-    overflow: auto;
+  padding: 0 0.2em 0 0.2em;
+  background-color: #d0d0ff;
 }
 
 blockquote {

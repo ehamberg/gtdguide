@@ -1,29 +1,26 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <title>$if(title-prefix)$$title-prefix$ - $endif$$if(pagetitle)$$pagetitle$$endif$</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta name="generator" content="pandoc" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="generator" content="pandoc">
 $for(author)$
-  <meta name="author" content="$author$" />
+  <meta name="author" content="$author$">
 $endfor$
-$if(date)$
-  <meta name="date" content="$date$" />
-$endif$
 $if(highlighting-css)$
   <style type="text/css">
 $highlighting-css$
   </style>
 $endif$
 $for(css)$
-  <link rel="stylesheet" href="$css$" type="text/css" />
+  <link rel="stylesheet" href="$css$" type="text/css">
 $endfor$
 $if(math)$
   $math$
 $endif$
-  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css' />
-  <link href='http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold' rel='stylesheet' type='text/css' />
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold' rel='stylesheet' type='text/css'>
   <style type="text/css">
   body {
     font-family: 'Droid Serif', serif;
@@ -43,43 +40,51 @@ $endif$
 $for(include-before)$
 $include-before$
 $endfor$
-$if(title)$
-<div class="topheader">$title$</div>
-$endif$
-<div class="header">
-<div class="headerimg">
-  <img src="images/slinky.png" alt="welcome!" />
+<div class="container">
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2 col-xs-12 text-center">
+        <h1 class="mainTitle">$title$</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4 col-md-offset-2 col-xs-12">
+      <h2>Table of contents</h2>
+      $toc$
+    </div>
+    <div class="col-md-4 hidden-xs">
+        <img src="images/slinky.svg" alt="welcome!">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2 col-xs-12 text-justify">
+        $body$
+        $for(include-after)$
+        $include-after$
+        $endfor$
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2 col-xs-12">
+      <a href="http://flattr.com/thing/123775/GTD-in-15-Minutes" target="_blank">
+      <img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this"></a>
+      <g:plusone size="small" annotation="inline"></g:plusone>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2 col-xs-12">
+      <div id="disqus_thread"></div>
+      <script type="text/javascript">
+          var disqus_shortname = 'ehamberg';
+          var disqus_identifier = 'gtdguide';
+          (function() {
+              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+              dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          })();
+      </script>
+      <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div>
+  </div>
 </div>
-<div class="toc">
-<h2>Table of contents</h2>
-$if(toc)$
-$toc$
-$endif$
-</div>
-</div>
-$body$
-$for(include-after)$
-$include-after$
-$endfor$
-
-<hr style='border: 1px solid black;' />
-
-<a href="http://flattr.com/thing/123775/GTD-in-15-Minutes" target="_blank">
-<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a>
-
-<g:plusone size="small" annotation="inline"></g:plusone>
-
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-    var disqus_shortname = 'ehamberg';
-    var disqus_identifier = 'gtdguide';
-
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </body>
 </html>
