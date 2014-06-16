@@ -74,7 +74,7 @@ The @@in@@ list is where you capture ideas and tasks as they occur to you.  This
 can be your boss telling you to bake her a carrot cake, or seeing a poster for a
 circus you want to see.  The barrier for adding something to your @@in@@ list
 should be as low as possible---jot it down in a notebook or press the right
-buttons on your mobile phone.  While I have called it *the* @@in@@ list, It is
+buttons on your smart phone.  While I have called it *the* @@in@@ list, It is
 no problem to have more than one.  Maybe a computer program for when you are in
 front of a computer and a notebook for when you loiter outside the mall?  The
 important thing is that you are able to write down things as they occur to you.
@@ -158,7 +158,7 @@ procedure:
 So what's the @@next actions@@ list?  Well, uh... a list of your next actions,
 obviously.  Another name for these actions is "as-soon-as-possible actions"---it
 is simply those things from which you will pick out what to work on when you
-are not watching funny cat videos on Youtube or playing Farmville.
+are not watching funny cat videos on Youtube or playing Candy Crush Saga.
 
 # The "@@waiting for@@" list
 
