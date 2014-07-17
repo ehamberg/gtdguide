@@ -265,13 +265,13 @@ the system as described in the section on the weekly review below.
 ![calendar!](images/calendar.svg)\
 
 The ~~calendar~~ is for things you *have* to do on a certain date or at a
-certain time, and *nothing else*!  That's right; no putting @@"install
+certain time---and *nothing else*!  That's right; no putting @@"install
 Bonzibudddy"@@ on your calendar for next Wednesday if you just *think* you
 *want* to have it done then.
 
 But... why‽
 
-By only having items which really *are* time and date sensitive on your
+By only having items that really *are* time and date sensitive on your
 ~~calendar~~ it will be more useful, since it will actually tell you the things
 you *have* to do a certain day without being "diluted" with other items.  The
 thing you *want* to do, but that doesn't need to be done at a certain time will
