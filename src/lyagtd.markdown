@@ -158,7 +158,7 @@ procedure:
 So what's the @@next actions@@ list?  Well, uh... a list of your next actions,
 obviously.  Another name for these actions is "as-soon-as-possible actions"---it
 is simply those things from which you will pick out what to work on when you
-are not watching funny cat videos on Youtube or playing Candy Crush Saga.
+are not watching funny cat videos on Youtube or playing *Candy Crush Saga*.
 
 # The "@@waiting for@@" list
 
