@@ -282,7 +282,7 @@ have the chance to do it.
 
 David Allen's book on "GTD" calls the weekly review a "critical factor for
 success" and he is not joking.  If you start using the GTD framework and you
-ar not a robot, things will start to slip. You will complete the next action of
+are not a robot, things will start to slip. You will complete the next action of
 a project and forget to add a new "next action" for that project. You will
 forget to remove next actions that you---if you really thought about it---know
 that you won't do in the near future because more important things have shown
