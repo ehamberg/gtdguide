@@ -181,7 +181,7 @@ GTD's definition of a project is very broad.  It defines any objective that
 requires more than one action as a project.  These projects should go on
 your @@projects@@ list.  This list is simply a list of project titles and---if
 you like---descriptions and intended outcomes of the projects. When reviewing
-the @@projects@@ list, you will make sure that there is alway at least one
+the @@projects@@ list, you will make sure that there is always at least one
 action on your @@next actions@@ list for each project, thus making sure that
 your projects aren't forgotten.
 
