@@ -13,7 +13,7 @@
 
 # What is "GTD"?
 
-GTD---or "Getting things done"---is a framework for organising and tracking your
+GTD---or "Getting things done"---is a framework for organizing and tracking your
 tasks and projects.  Its aim is a bit higher than just "getting things done",
 though.  (It should have been called "Getting things done in a much better way
 than just letting things happen, which often turns out not to be very cool at
@@ -140,7 +140,7 @@ end up.  If the open loop will take more than one action to close, the overall
 goal should also be noted on a @@projects@@ list which will be explained in a
 few sections.
 
-To summarise, when processing your @@in@@ list(s), you should follow this
+To summarize, when processing your @@in@@ list(s), you should follow this
 procedure:
 
 <div class="fullwidth">
@@ -232,7 +232,7 @@ how your work day looks like.  The important thing is to be able to assess---at
 a glance---what your possible actions are depending on where you physically are
 and what equipment you have available.  It can also be a good idea to make an
 "everywhere" context for things you can do no matter where you are (@@"Call
-mom and get goulash recipe"@@).
+mum and get goulash recipe"@@).
 
 ## Agenda contexts
 
@@ -246,7 +246,7 @@ etc. change.
 # The "@@some day/maybe@@" list
 
 You don't want to lose your million-dollar idea of making a "jump to
-conclusions" mat, but since this is a project you want to realise when you have
+conclusions" mat, but since this is a project you want to realize when you have
 more time, you don't want to have it "pollute" your @@next actions@@ lists or
 your list of @@projects@@ either.  (Remember that the @@next actions@@ only
 contains the things that should be done as soon as possible and that your
@@ -254,7 +254,7 @@ contains the things that should be done as soon as possible and that your
 at least one next action.)
 
 This is where the @@some day/maybe@@ list comes it.  This list simply contains
-ideas and projects you *might* want to realise at some time in the future. This
+ideas and projects you *might* want to realize at some time in the future. This
 is where both @@"replace ugly painting in bed room"@@ and @@"start a cult"@@
 should go.  (Assuming---of course---that you don't want to do either of those
 things *right now*.)  This list should be reviewed weekly along with the rest of
@@ -323,7 +323,7 @@ When working through your trigger list, put anything that you remember in your
 
 An example of a trigger list can be seen at [*Lifehacker*'s trigger list for
 students](http://lifehacker.com/5611657/use-a-weekly-review-list-to-stay-a-step-ahead-this-semester).
-You probably want to customise your own list as you get more experience and
+You probably want to customize your own list as you get more experience and
 learn what works best for *you*.
 
 # Getting it to work
@@ -397,7 +397,7 @@ It's written from one person's perspective and other people would probably
 assess the importance of different aspects of GTD differently.
 
 If you want a complete overview of GTD you would be wise to read
-David Allen's book which formalised the method he developed:
+David Allen's book which formalized the method he developed:
 **"Getting Things Done: The Art of Stress-Free Productivity"**
 ([Amazon](http://www.amazon.com/gp/product/0142000280?ie=UTF8&tag=erlehamb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0142000280)![image](https://www.assoc-amazon.com/e/ir?t=erlehamb-20&l=as2&o=1&a=0142000280),
 [Kindle Store](http://www.amazon.com/gp/product/B000WH7PKY?ie=UTF8&tag=erlehamb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000WH7PKY)![image](https://www.assoc-amazon.com/e/ir?t=erlehamb-20&l=as2&o=1&a=B000WH7PKY),
