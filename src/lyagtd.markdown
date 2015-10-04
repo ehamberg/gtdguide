@@ -410,6 +410,6 @@ Haskell programming language "[Learn You a Haskell for Great
 Good!](http://learnyouahaskell.com)".
 
 The guide is written in
-[Markdown](http://daringfireball.net/projects/markdown/) and I use the
-excellent [pandoc](http://johnmacfarlane.net/pandoc/) to generate HTML.
-To get in touch with me, send me an email to ehambergαgmail.com.
+[Markdown](http://daringfireball.net/projects/markdown/) and I use
+[pandoc](http://johnmacfarlane.net/pandoc/) to generate HTML. To get in touch
+with me, send me an email to ehambergαgmail.com.
