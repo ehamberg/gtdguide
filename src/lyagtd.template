@@ -19,11 +19,15 @@ $endfor$
 $if(math)$
   $math$
 $endif$
-  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Droid+Serif:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
   <style type="text/css">
   body {
     font-family: 'Droid Serif', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 21px;
+    line-height: 1.5;
+    letter-spacing: -0.0025em;
   }
   </style>
   <script type="text/javascript">
