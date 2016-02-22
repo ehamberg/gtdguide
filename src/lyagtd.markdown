@@ -98,8 +98,8 @@ on the @@in@@ list will be processed continuously.
 </div>
 
 The items on your @@in@@ list should be processed one by one *in the order they
-appear on your list*.  When processing at an item in your @@in@@ list the first
-question you need to ask is **is it *actionable*?**---in other words, do you need
+appear on your list*.  When processing an item in your @@in@@ list the first
+question you need to ask is: **is it *actionable*?**---in other words, do you need
 to *do* something?  If the answer is NO, you either throw it away if you no
 longer need it, keep it as reference material ("I will probably need this
 article again some day..."), add it to a "some day/maybe list" (for things like
