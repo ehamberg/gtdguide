@@ -107,7 +107,7 @@ article again some day..."), add it to a "some day/maybe list" (for things like
 of.  If it's something that you want to remind yourself of later ("I really
 didn't understand this article, I should have a look at it again in two weeks")
 it should go into your calendar or your *tickler file* which will soon be
-explained. (Yes; even the weird name.)
+explained. (Yes, even the weird name.)
 
 Now, if the item you're currently processing *is* actionable---in other words:
 something should be done about it---you should ask the question "*what is the
@@ -132,9 +132,9 @@ than two minutes to do it.  If this is the case, do it. Right away.  (Things
 like ^^"e-mail funny cat video to grandma"^^.)  The reason for this is simple:
 if the action takes two minutes or less, the overhead of tracking it will be
 large compared to how long it takes to just *do* it.  If it takes more than two
-minutes you should **delegate** it if appropriate---noting what was delegated and
-when on a @@waiting for@@ list, or add it to your own @@next actions@@ list of
-things you want to do as soon as you have the time.  Unless your secret
+minutes you should **delegate** it if appropriate---noting what was delegated,
+and when---on a @@waiting for@@ list, or add it to your own @@next actions@@
+list of things you want to do as soon as you have the time.  Unless your secret
 superpower is delegation, @@next actions@@ is probably where most things will
 end up.  If the open loop will take more than one action to close, the overall
 goal should also be noted on a @@projects@@ list which will be explained in a
