@@ -70,6 +70,24 @@ $endfor$
         <img src="images/slinky.svg" alt="welcome!">
     </div>
   </div>
+</div>
+<div style="text-align: center;">
+  <style>
+  .gtd-guide-responsive { width: 320px; height: 50px; }
+  @media(min-width: 500px) { .gtd-guide-responsive { width: 468px; height: 60px; } }
+  @media(min-width: 800px) { .gtd-guide-responsive { width: 728px; height: 90px; } }
+  </style>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- GTD Guide – responsive -->
+  <ins class="adsbygoogle gtd-guide-responsive"
+       style="display:inline-block"
+       data-ad-client="ca-pub-8254729042256446"
+       data-ad-slot="8298527015"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+<div class="container">
   <div class="row">
     <div class="col-md-8 col-md-offset-2 col-xs-12 text-justify">
         $body$
@@ -78,12 +96,24 @@ $endfor$
         $endfor$
     </div>
   </div>
-  <div class="row">
-    <div class="col-md-8 col-md-offset-2 col-xs-12">
-      <hr>
-      <g:plusone size="small" annotation="inline"></g:plusone>
-    </div>
-  </div>
+</div>
+<div style="text-align: center;">
+  <style>
+  .gtd-guide-responsive { width: 320px; height: 50px; }
+  @media(min-width: 500px) { .gtd-guide-responsive { width: 468px; height: 60px; } }
+  @media(min-width: 800px) { .gtd-guide-responsive { width: 728px; height: 90px; } }
+  </style>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- GTD Guide – responsive -->
+  <ins class="adsbygoogle gtd-guide-responsive"
+       style="display:inline-block"
+       data-ad-client="ca-pub-8254729042256446"
+       data-ad-slot="8298527015"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+<div class="container">
   <div class="row">
     <div class="col-md-8 col-md-offset-2 col-xs-12">
       <div id="disqus_thread"></div>
