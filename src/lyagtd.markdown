@@ -128,7 +128,7 @@ this greatly lowers the resistance to *do* the things.
 </div>
 
 When you have determined the next action, you should consider if it takes less
-than two minutes to do it.  If this is the case, do it. Right away.  (Things
+than two minutes to do it.  If this is the case: do it. Right away.  (Things
 like ^^"e-mail funny cat video to grandma"^^.)  The reason for this is simple:
 if the action takes two minutes or less, the overhead of tracking it will be
 large compared to how long it takes to just *do* it.  If it takes more than two
@@ -147,7 +147,7 @@ procedure:
   <img alt="workflow" src="images/workflow.svg">
   <p class="caption">
   The GTD work flow: open loops are collected in the <span class="listname">in
-  </span> list, processed, and if it's an action it's done, deferred, or
+  </span> list, processed, and if it's an action it's done right away, deferred, or
   delegated. If the item being processed require more than one action it's
   recorded in the <span class="listname">projects</span> list as well.
   </p>
@@ -240,7 +240,7 @@ If you have regular meetings with people, it can be beneficial to have "agenda
 contexts"---one for each person---where you note down the things you want to talk
 about during the next meeting as you think of them. For example, if you have a
 weekly meeting with Foobert, you might consider having a "!!@ Foobert Agenda!!"
-context.  These contexts will of course change as your team/managers/supervisor,
+context.  These contexts will of course change as your team/managers/supervisors,
 etc. change.
 
 # The "@@some day/maybe@@" list
@@ -255,7 +255,7 @@ at least one next action.)
 
 This is where the @@some day/maybe@@ list comes it.  This list simply contains
 ideas and projects you *might* want to realize at some time in the future. This
-is where both @@"replace ugly painting in bed room"@@ and @@"start a cult"@@
+is where both @@"replace ugly painting in bedroom"@@ and @@"start a cult"@@
 should go.  (Assuming---of course---that you don't want to do either of those
 things *right now*.)  This list should be reviewed weekly along with the rest of
 the system as described in the section on the weekly review below.
