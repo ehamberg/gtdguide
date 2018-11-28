@@ -146,11 +146,10 @@ procedure:
 <div class="fullwidth">
   <img alt="workflow" src="images/workflow.svg">
   <p class="caption">
-  The GTD work flow: open loops are collected in the <span class="listname">in
-  </span> list, processed, and if it's an action it's done right away, deferred, or
-  delegated. If the item being processed require more than one action it's
-  recorded in the <span class="listname">projects</span> list as well.
-  </p>
+  The GTD work flow: open loops are collected in the @@in@@ list, processed, and
+  if it's an action it's done immediately, deferred, or delegated. If the item
+  being processed require more than one action it's recorded in the @@projects@@
+  list as well.</p>
 </div>
 
 # The "@@next actions@@" list
