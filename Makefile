@@ -5,8 +5,8 @@ TARGET=lyagtd.html
 
 all:
 	cat $(SRC)\
-	| sed ':a;N;$$!ba;s/@@\([^@]*\)@@/<span class="listname">\1<\/span>/g'\
-	| sed ':a;N;$$!ba;s/\^\^\([^\^]*\)\^\^/<span class="action">\1<\/span>/g'\
-	| sed ':a;N;$$!ba;s/!!\([^!]*\)!!/<span class="context">\1<\/span>/g'\
-	| sed ':a;N;$$!ba;s/~~\([^~]*\)~~/<span class="calendar">\1<\/span>/g'\
-	| pandoc -S -s --toc --template=$(TEMPLATE) -c src/bootstrap.min.css -c $(CSS) -o $(TARGET)
+	| gsed ':a;N;$$!ba;s/@@\([^@]*\)@@/<span class="listname">\1<\/span>/g'\
+	| gsed ':a;N;$$!ba;s/\^\^\([^\^]*\)\^\^/<span class="action">\1<\/span>/g'\
+	| gsed ':a;N;$$!ba;s/!!\([^!]*\)!!/<span class="context">\1<\/span>/g'\
+	| gsed ':a;N;$$!ba;s/~~\([^~]*\)~~/<span class="calendar">\1<\/span>/g'\
+	| pandoc -f markdown+smart -s --toc --template=$(TEMPLATE) -c src/bootstrap.min.css -c $(CSS) -o $(TARGET)
