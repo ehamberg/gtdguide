@@ -67,7 +67,7 @@ $endfor$
       $toc$
     </div>
     <div class="col-md-4 col-sm-6 hidden-xs">
-        <img src="images/slinky.svg" alt="welcome!">
+        <img src="/gtd/images/slinky.svg" alt="welcome!">
     </div>
   </div>
 </div>

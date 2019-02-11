@@ -49,7 +49,7 @@ stop constantly reminding you.  This reduces stress and frees up precious brain
 time to more productive thinking---maybe it even saves *real* time so that you
 have more time for ballet lessons, painting classes, and roller-blading.
 
-![lists!](images/lists.svg)\
+![lists!](/gtd/images/lists.svg)\
 
 Awesome! So how does it actually work? It works by using special yoga techniques
 and daily mental exercises.  No, haha! Just kidding.  It works by simply
@@ -144,7 +144,7 @@ To summarize, when processing your @@in@@ list(s), you should follow this
 procedure:
 
 <div class="fullwidth">
-  <img alt="workflow" src="images/workflow.svg">
+  <img alt="workflow" src="/gtd/images/workflow.svg">
   <p class="caption">
   The GTD work flow: open loops are collected in the @@in@@ list, processed, and
   if it's an action it's done immediately, deferred, or delegated. If the item
@@ -186,7 +186,7 @@ your projects aren't forgotten.
 
 # Contexts
 
-![computer!](images/computer.svg)\
+![computer!](/gtd/images/computer.svg)\
 
 Contexts are "tags" you put on the items on your @@next actions@@ lists saying
 where the action can be done, or what equipment you need to perform it.  An
@@ -261,7 +261,7 @@ the system as described in the section on the weekly review below.
 
 # Calendar
 
-![calendar!](images/calendar.svg)\
+![calendar!](/gtd/images/calendar.svg)\
 
 The ~~calendar~~ is for things you *have* to do on a certain date or at a
 certain time---and *nothing else*!  That's right; no putting @@"install
@@ -363,7 +363,7 @@ that show up during the day.
 
 ## Tickler file
 
-![Tickle!](images/tickle.svg)\
+![Tickle!](/gtd/images/tickle.svg)\
 
 This strangely-named concept is simply a collection of 43 file folders. Why 43?
 Because that means that you can have one for each of the **31** days of a month
