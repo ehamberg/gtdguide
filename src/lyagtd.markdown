@@ -28,9 +28,9 @@ read on.
 
 One of the basic assumptions of GTD is that you are dumb---or, rather, that your
 subconsciousness is quite dumb when it comes to thinking about things you
-*should* have done.  For example knowing you need to fix your bike before next
-week, but instead of reminding you when you actually drive by the bicycle shop,
-it implants an incessant feeling of *"I need to remember...  something"* in your
+*should* have done.  For example knowing you need to get your watch repaired,
+but instead of reminding you when you actually bike past the watch store, it
+implants an incessant feeling of *"I need to remember ... something"* in your
 brain.
 
 [Jessica Kerr](http://jessitron.com/) put it perfectly:
