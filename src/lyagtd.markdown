@@ -134,11 +134,11 @@ if the action takes two minutes or less, the overhead of tracking it will be
 large compared to how long it takes to just *do* it.  If it takes more than two
 minutes you should **delegate** it if appropriate---noting what was delegated,
 and when---on a @@waiting for@@ list, or add it to your own @@next actions@@
-list of things you want to do as soon as you have the time.  Unless your secret
-superpower is delegation, @@next actions@@ is probably where most things will
-end up.  If the open loop will take more than one action to close, the overall
-goal should also be noted on a @@projects@@ list which will be explained in a
-few sections.
+list of things you want to do as soon as you have the time and energy.  Unless
+your secret superpower is delegation, @@next actions@@ is probably where most
+things will end up.  If the open loop will take more than one action to close,
+the overall goal should also be noted on a @@projects@@ list which will be
+explained in a few sections.
 
 To summarize, when processing your @@in@@ list(s), you should follow this
 procedure:
