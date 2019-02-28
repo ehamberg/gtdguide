@@ -349,11 +349,11 @@ directly part of the GTD method---may be beneficial to use together with GTD.
 ## Read/review folder
 
 You will probably have quite a few ^^"read [some document]"^^ actions on your
-@@next actions@@ list.  A read/review folder is simply a physical folder you
-carry around, containing the papers, documents, and anything else you want to
+@@next actions@@ list.  A read/review folder is simply a folder (physical or
+digital) that contains the papers, documents, and anything else you want to
 read.  The idea is to have this material available whenever you have a few
 minutes to kill. In the dentist's waiting room?  Waiting for your food at a
-café?  Both perfect opportunities to peruse the paper on *Periophthalmus
+café?  Both are perfect opportunities to peruse the paper on *Periophthalmus
 modestus* phylogeny or pretend to read the memo from your boss!
 
 It is really important to have "sharp edges" here, too. Only the things you
