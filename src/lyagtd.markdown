@@ -75,10 +75,10 @@ can be your boss telling you to bake her a carrot cake, or seeing a poster for a
 circus you want to see.  The barrier for adding something to your @@in@@ list
 should be as low as possible---jot it down in a notebook or press the right
 buttons on your smartphone.  While I have called it *the* @@in@@ list, It is
-no problem to have more than one.  Maybe a computer program for when you are in
-front of a computer and a notebook for when you loiter outside the mall?  The
-important thing is that you are able to write down things as they occur to you.
-We want to offload work from the brain, remember?
+no problem to have more than one.  Maybe an app for when you are in front of a
+computer and a notebook for when you loiter outside the mall?  The important
+thing is that you are able to write down things as they occur to you.  We want
+to offload work from the brain, remember?
 
 When you first start to use GTD you should take an hour to write down all things
 you want to---or have to---do.  These so-called *open loops* include *all* things
