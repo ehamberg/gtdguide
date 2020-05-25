@@ -381,6 +381,8 @@ correct day folders.
 The tickler file thus provides a way to send yourself reminders in the
 future---*tickling* your memory. A-ha!
 
+<hr>
+
 # About this guide
 
 This guide was written to serve as a simple, pragmatic guide to the "getting
