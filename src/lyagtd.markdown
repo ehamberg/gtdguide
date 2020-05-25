@@ -170,11 +170,11 @@ the WTF report you said you'd finish within a month.  That was 32 days ago!".
 
 # Projects
 
-If you're still with me you might have worried that a ^^"research artificial
-intelligence textbooks"^^ action on your @@next actions@@ list is all that is
-written down about your plan to take over the world.  Wouldn't it be easy to
-lose track once that action is done and erased from your list? Yes, it kinda
-would.  That's where the @@projects@@ list comes in.
+If you're still with me you might be worried about the fact that a ^^"research
+artificial intelligence textbooks"^^ action on your @@next actions@@ list is all
+that is written down about your plan to take over the world.  Wouldn't it be
+easy to lose track once that action is done and erased from your list? Yes, it
+kinda would.  That's where the @@projects@@ list comes in.
 
 GTD's definition of a project is very broad.  It defines any objective that
 requires more than one action to complete as a project.  These projects should
