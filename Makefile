@@ -18,9 +18,11 @@ build/images: images
 	cp -R images/* build/images
 
 build/lyagtd.css:
+	mkdir -p build
 	cp src/lyagtd.css build/lyagtd.css
 
 build/bootstrap.min.css:
+	mkdir -p build
 	cp src/bootstrap.min.css build/bootstrap.min.css
 
 deploy: $(TARGET)
