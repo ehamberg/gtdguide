@@ -49,9 +49,7 @@ stop constantly reminding you.  This reduces stress and frees up precious brain
 time to more productive thinking---maybe it even saves *real* time so that you
 have more time for ballet lessons, painting classes, and roller-blading.
 
-![lists!](/gtd/images/lists.svg)\
-
-Awesome! So how does it actually work? It works by using special yoga techniques
+![lists!](/gtd/images/lists.svg)\ Awesome! So how does it actually work? It works by using special yoga techniques
 and daily mental exercises.  No, haha! Just kidding.  It works by simply
 maintaining lists, which every kid with paper and a pencil can do.  Even
 computers can maintain lists these days!
@@ -186,17 +184,15 @@ sure that your projects aren't forgotten.
 
 # Contexts
 
-![computer!](/gtd/images/computer.svg)\
-
-Contexts are "tags" you put on the items on your @@next actions@@ lists saying
-where the action can be done, or what equipment you need to perform it.  An
-action can be "tagged" with a context in several ways; the easiest is probably
-to simply have different @@next actions@@ lists---one for each context. If you
-use a new-fangled electronic list manager you can often have a "smart" lists for
-each tag---yielding the same result. (With so-called smartphones it's probably
-even possible to use its location awareness to only present actions whose
-context match your current location. If so: that is amazing! We live in the
-future!)
+![computer!](/gtd/images/computer.svg) Contexts are "tags" you put on the items
+on your @@next actions@@ lists saying where the action can be done, or what
+equipment you need to perform it.  An action can be "tagged" with a context in
+several ways; the easiest is probably to simply have different @@next actions@@
+lists---one for each context. If you use a new-fangled electronic list manager
+you can often have a "smart" lists for each tag---yielding the same result.
+(With so-called smartphones it's probably even possible to use its location
+awareness to only present actions whose context match your current location. If
+so: that is amazing! We live in the future!)
 
 It is common to prefix contexts with an '@' which makes sense when the context
 is a location, but should just be thought of as a notation in other cases.
@@ -261,12 +257,10 @@ the system as described in the section on the weekly review below.
 
 # Calendar
 
-![calendar!](/gtd/images/calendar.svg)\
-
-The ~~calendar~~ is for things you *have* to do on a certain date or at a
-certain time---and *nothing else*!  That's right; no putting @@"install
-Bonzibudddy"@@ on your calendar for next Wednesday if you just *think* you
-*want* to have it done then.
+![calendar!](/gtd/images/calendar.svg)\ The ~~calendar~~ is for things you
+*have* to do on a certain date or at a certain time---and *nothing else*!
+That's right; no putting @@"install Bonzibudddy"@@ on your calendar for next
+Wednesday if you just *think* you *want* to have it done then.
 
 But... why‽
 
@@ -363,12 +357,11 @@ that show up during the day.
 
 ## Tickler file
 
-![Tickle!](/gtd/images/tickle.svg)\
-
-This strangely-named concept is simply a collection of 43 file folders. Why 43?
-Because that means that you can have one for each of the **31** days of a month
-plus one for each of the **12** months of the year.  If you're reaching for your
-calculator now---just trust me on the number 43.
+![Tickle!](/gtd/images/tickle.svg)\ This strangely-named concept is simply a
+collection of 43 file folders. Why 43?  Because that means that you can have one
+for each of the **31** days of a month plus one for each of the **12** months of
+the year.  If you're reaching for your calculator now---just trust me on the
+number 43.
 
 So what are these folders used for? The idea is that you can place physical
 items you will need on a specific day (tickets for the concert), reminders of
